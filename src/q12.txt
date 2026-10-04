@@ -1,0 +1,196 @@
+animals|What is the fastest land animal?|It's a spotted big cat.|It lives in Africa and starts with "Ch".|The cheetah|A cheetah can hit about 60–70 mph, but only in short bursts of a few hundred yards.
+animals|Which continent has no native ants?|It's the coldest continent.|It's where the South Pole is.|Antarctica|There are more than 12,000 known species of ants on the other continents.
+animals|What is a group of lions called?|It's also a word for feeling proud.|P-R-...|A pride|In a pride, the female lions do most of the hunting.
+animals|Which egg-laying mammal has a bill like a duck?|It lives in Australia.|Its name starts with "platy".|The platypus|A platypus finds food underwater by sensing the tiny electric signals of its prey.
+animals|How many compartments does a cow's stomach have?|More than two.|It's an even number below 5.|4|Cows chew their food twice; the partly digested food they re-chew is called cud.
+animals|What is the largest living reptile?|It lives in rivers and coasts around Asia and Australia.|It's a crocodile that can swim in the sea.|The saltwater crocodile|Saltwater crocodiles can grow to around 20 feet long.
+animals|What do you call animals that eat both plants and meat?|Not herbivores or carnivores.|It starts with "omni", meaning "all".|Omnivores|Bears, raccoons, and humans are all omnivores.
+animals|Which bird has the longest migration of any animal?|It flies from the Arctic to Antarctica and back.|It's a kind of seabird called a "tern".|The Arctic tern|An Arctic tern can fly about 44,000 miles in a single year.
+animals|Which ocean animal sleeps with only half of its brain at a time so it can keep breathing?|It's a smart marine mammal.|"Flipper" was one.|The dolphin|Dolphins can keep one eye open while they sleep.
+animals|What is a baby swan called?|It starts with "cyg".|It rhymes with "signet".|A cygnet|Swans often stay with the same partner for many years.
+animals|Which animal has the biggest eyes in the animal kingdom?|It lives deep in the ocean.|It's a giant kind of squid.|The colossal squid|Its eyes can be as big as dinner plates, about 11 inches across.
+animals|What word describes animals that are active at night?|Owls and raccoons are.|It starts with "noc".|Nocturnal|Animals active during the day are called diurnal.
+animals|What is the largest fish in the world?|It's gentle and eats tiny plankton.|It's named after a whale, but it's a shark.|The whale shark|Whale sharks can grow more than 40 feet long, yet they mostly eat tiny plankton.
+animals|What do we call animals with a backbone?|Fish, birds, and mammals are examples.|It starts with "V".|Vertebrates|Fewer than 5% of all animal species have a backbone; most are invertebrates like insects.
+animals|Which is the only bird that can fly backward?|It's tiny and hovers at flowers.|Its wings hum.|The hummingbird|A hummingbird's heart can beat more than 1,200 times a minute.
+animals|What is the name of the change from tadpole to frog?|Butterflies go through it too.|It starts with "meta".|Metamorphosis|"Metamorphosis" comes from Greek words meaning "change of shape."
+animals|What do koalas mostly eat?|They're leaves from one kind of tree.|The tree's oil is used in cough drops.|Eucalyptus leaves|Koalas sleep up to about 20 hours a day.
+animals|What are humans' closest living animal relatives?|They're great apes.|They're from Africa; one kind is the bonobo.|Chimpanzees and bonobos|Humans and chimpanzees share about 98–99% of their DNA.
+animals|What is the largest land animal?|It has a trunk.|It's the African kind, not the Asian kind.|The African elephant|An elephant's trunk has tens of thousands of muscle bundles and no bones.
+animals|What is a group of owls called?|It's also a word for a group of lawmakers.|It starts with "parl".|A parliament|Owls can't move their eyes, so they turn their heads, up to about 270 degrees.
+science|What is the chemical formula for water?|It has hydrogen and oxygen.|Two of one, one of the other.|H₂O|A single drop of water contains more than a billion trillion molecules.
+science|What is the chemical symbol for gold?|It comes from the Latin word "aurum".|Two letters, starting with "A".|Au|All the gold ever mined would fit in a cube only about 70 feet on each side.
+science|Which part of a cell holds its DNA?|It's the cell's control center.|It starts with "N".|The nucleus|The DNA in just one of your cells would stretch about 6 feet if uncoiled.
+science|What is the most common gas in Earth's air?|It's not oxygen!|It starts with "N".|Nitrogen|About 78% of the air we breathe is nitrogen.
+science|At what temperature in Celsius does water freeze?|It's a round number.|It's the lowest whole number that isn't negative.|0 °C|That's the same as 32 °F.
+science|At what temperature in Fahrenheit does water boil at sea level?|It's above 200.|It's 180 degrees above freezing (32 °F).|212 °F|On a high mountain, water boils at a lower temperature because there's less air pressure.
+science|What do you call a substance that speeds up a chemical reaction without being used up?|Cars have a "converter" with this name.|It starts with "cata".|A catalyst|Enzymes in your body are catalysts that help digest your food.
+science|Which scientist came up with the theory of relativity?|He had famously wild white hair.|E = mc².|Albert Einstein|Einstein won the Nobel Prize for explaining the photoelectric effect, not for relativity.
+science|What are the three main particles inside an atom?|One is positive, one is negative, one is neutral.|Protons, neutrons, and ...|Protons, neutrons, and electrons|An electron has only about 1/1,836 the mass of a proton.
+science|What kind of energy does a moving object have?|It starts with "K".|Its opposite is "potential" energy.|Kinetic energy|"Kinetic" comes from the Greek word for "moving."
+science|What is the pH of pure water?|It's right in the middle of the scale.|The scale goes from 0 to 14.|7 (neutral)|Lemon juice has a pH around 2, which makes it acidic.
+science|Which layer of the atmosphere protects us from the Sun's ultraviolet rays?|It's a gas layer high up.|It's named after a gas made of three oxygen atoms.|The ozone layer|Ozone molecules are made of three oxygen atoms instead of two.
+science|Which element are diamonds and pencil "lead" both made of?|It's in every living thing.|Its symbol is C.|Carbon|Pencil "lead" is actually graphite; there's no lead in it at all.
+science|What unit measures electrical power, like on a light bulb?|It's named after a Scottish inventor.|It rhymes with "hot".|The watt|James Watt improved the steam engine, which helped power the Industrial Revolution.
+science|About how fast does light travel?|It's about 186,000 of something per second.|Miles per ... second!|About 186,000 miles per second (300,000 km/s)|Light could zip around the Earth about 7.5 times in one second.
+science|What type of rock forms when lava cools?|It starts with "ig".|It comes from the Latin word for "fire."|Igneous rock|Granite and obsidian are both igneous rocks.
+science|What is it called when water vapor turns back into liquid?|It's how dew forms on grass.|It starts with "con".|Condensation|The "fog" on a cold soda can is condensation from the air.
+science|Which scientist wrote the laws of motion and described gravity?|An apple helped inspire him.|Sir Isaac ...|Isaac Newton|Newton also invented the reflecting telescope.
+science|What is the most common element in the universe?|It's the lightest element.|It's number 1 on the periodic table.|Hydrogen|About three-quarters of all normal matter in the universe is hydrogen.
+space|Which planet has the most known moons?|It has beautiful rings.|It's the sixth planet.|Saturn|Saturn has well over 200 known moons, and astronomers keep finding more.
+space|What is Saturn's largest moon?|It has a thick, hazy atmosphere.|It's named after a giant from Greek myths.|Titan|Titan has lakes and seas, but they're filled with liquid methane, not water.
+space|What does a light-year measure?|It's not time!|It's how far light goes in one year.|Distance|One light-year is about 5.9 trillion miles.
+space|What was the name of the first artificial satellite, launched in 1957?|It was launched by the Soviet Union.|It starts with "Sput".|Sputnik 1|Sputnik was about the size of a beach ball.
+space|Which planet has a giant storm called the Great Red Spot?|It's the biggest planet.|It starts with "J".|Jupiter|The Great Red Spot is wider than the whole Earth.
+space|What do we call the huge explosion of a dying star?|It's "super"!|Super ...|A supernova|A supernova can briefly shine brighter than an entire galaxy.
+space|Which spacecraft is the farthest human-made object from Earth?|It launched in 1977.|Its name means "traveler," and it's number 1.|Voyager 1|Voyager 1 carries a golden record with sounds and music from Earth.
+space|What giant infrared space telescope launched in 2021?|It's named after a NASA leader.|James ...|The James Webb Space Telescope|Webb's main mirror is about 21 feet wide and made of 18 gold-coated segments.
+space|What is the closest star to us after the Sun?|It's in the Alpha Centauri system.|Its name starts with "Proxima".|Proxima Centauri|Proxima Centauri is about 4.2 light-years away.
+space|What is NASA's program to send astronauts back to the Moon called?|It's named after a Greek goddess.|She was Apollo's twin sister.|Artemis|Artemis plans to land the first woman on the Moon.
+space|About how long does sunlight take to reach Earth?|Less than 10 minutes.|It's about 8 of something.|About 8 minutes|When you look at the Sun (don't!), you're seeing it as it was 8 minutes ago.
+space|Between which two planets is the main asteroid belt?|One of them is red.|Between Mars and the biggest planet.|Mars and Jupiter|Ceres, the largest object in the asteroid belt, is a dwarf planet.
+space|What is at the center of the Milky Way galaxy?|It's super heavy and nothing escapes it.|It's a supermassive black ...|A supermassive black hole (Sagittarius A*)|It has about 4 million times the mass of the Sun.
+space|Which planet is the coldest in our solar system?|It's not the farthest planet!|It's the seventh planet and spins on its side.|Uranus|Uranus is colder than Neptune even though Neptune is farther from the Sun.
+space|Which planet has the fastest winds?|It's the farthest planet from the Sun.|It's blue and named after the Roman sea god.|Neptune|Winds on Neptune can blow more than 1,200 miles per hour.
+space|How strong is the Moon's gravity compared to Earth's?|It's a fraction.|About one-sixth.|About 1/6 as strong|A 90-pound kid would weigh only about 15 pounds on the Moon.
+space|What are comets mostly made of?|They're called "dirty snowballs."|Frozen stuff mixed with dirt.|Ice, dust, and rock|A comet's tail always points away from the Sun.
+space|What two gases is the Sun mostly made of?|One is the lightest element.|Hydrogen and the gas in party balloons.|Hydrogen and helium|Helium was discovered on the Sun in 1868, before it was found on Earth!
+space|Who was the first human to travel into space?|He was from the Soviet Union, in 1961.|His first name is Yuri.|Yuri Gagarin|His whole flight around the Earth took about 108 minutes.
+space|Who was the first American woman in space?|She flew on the space shuttle in 1983.|Her first name is Sally.|Sally Ride|Sally Ride was born in Los Angeles and grew up in Encino, right in the San Fernando Valley!
+geography|What is the longest river in South America?|It flows through a huge rainforest.|It's named after female warriors from Greek myths.|The Amazon|The Amazon carries more water than any other river on Earth.
+geography|What is the capital of Japan?|It's a huge city.|It starts with "T".|Tokyo|Tokyo used to be called Edo.
+geography|What is the capital of Australia?|It's not Sydney!|It starts with "Can".|Canberra|Canberra was built as a compromise because Sydney and Melbourne both wanted to be the capital.
+geography|What is the smallest country in the world?|It's inside the city of Rome.|The Pope lives there.|Vatican City|Vatican City is smaller than many golf courses.
+geography|Which country has the most lakes?|It's north of the U.S.|It's famous for maple syrup.|Canada|Canada has more lakes than the rest of the world combined.
+geography|What mountain range runs down the west side of South America?|Llamas live there.|It starts with "An".|The Andes|The Andes are the longest mountain range on any continent.
+geography|Which African country has the most people?|It's in West Africa.|Its capital is Abuja.|Nigeria|More than 200 million people live in Nigeria.
+geography|What is the largest country by area?|It spans two continents.|Its capital is Moscow.|Russia|Russia stretches across 11 time zones.
+geography|Which U.S. state is the biggest by area?|It's not Texas!|It's very far north, next to Canada.|Alaska|Alaska is more than twice as big as Texas.
+geography|What is the deepest part of the ocean?|It's in the Pacific Ocean.|The Mariana ...|The Mariana Trench (the Challenger Deep)|It's nearly 36,000 feet deep, so Mount Everest would fit inside with room to spare.
+geography|In which country is Machu Picchu?|It's in South America.|Its capital is Lima.|Peru|Machu Picchu was built by the Inca in the 1400s, high in the Andes.
+geography|Which two countries share the longest border in the world?|One of them is the U.S.|The other one is to the north.|The United States and Canada|The border between them is about 5,500 miles long.
+geography|What is the capital of Canada?|It's not Toronto!|It starts with "Ott".|Ottawa|In winter, Ottawa's Rideau Canal turns into a giant skating rink people skate to work on.
+geography|Off the coast of which country is the Great Barrier Reef?|It's "down under".|Kangaroos live there too.|Australia|The Great Barrier Reef is the largest structure on Earth built by living things.
+geography|Which European city is built on canals, with boats called gondolas?|It's in Italy.|It starts with "V".|Venice|Venice is built on 118 small islands connected by bridges.
+geography|What is the capital of Egypt?|It's on the Nile River.|It starts with "C".|Cairo|Cairo is one of Africa's largest cities, and the Great Pyramids stand at its edge in Giza.
+geography|Which river flows through London?|It starts with "Th".|It sounds like "Temz".|The River Thames|More than 30 bridges cross the Thames in London.
+geography|What is the driest desert that isn't at the poles?|It's in South America.|It's in Chile and starts with "A".|The Atacama Desert|Some weather stations in the Atacama have never recorded any rain.
+geography|What is the name of the 0° longitude line that passes through Greenwich, London?|It's not the equator.|Prime ...|The Prime Meridian|At Greenwich you can stand with one foot in each hemisphere, east and west.
+geography|What is the largest lake in Africa?|It's named after a British queen.|Lake V...|Lake Victoria|Lake Victoria is considered the main source of the Nile.
+math|What is 12 × 12?|10 × 12 = 120.|Then add 2 more twelves.|144|A dozen dozens (144) is called a "gross."
+math|What is 15% of 200?|10% of 200 is 20.|Add half of that for 5%.|30|A quick tip trick: find 10%, then add half of it to get 15%.
+math|What is the square root of 81?|What number times itself is 81?|It's one less than 10.|9|81 is also 3 × 3 × 3 × 3.
+math|What is 7 × 8?|It's 7 × 7 plus 7.|Think "5, 6, 7, 8."|56|Memory trick: 56 = 7 × 8 (the numbers 5, 6, 7, 8 in order).
+math|How many degrees do the three angles of a triangle add up to?|Half of a full circle.|A full circle is 360°.|180°|That's only true on a flat surface; on a sphere, a triangle's angles add up to more!
+math|What is 25% of 80?|25% is one-fourth.|80 divided by 4.|20|Finding 25% is the same as halving twice.
+math|A car drives 60 mph for 2.5 hours. How far does it go?|60 miles every hour.|2 hours is 120 miles, plus half an hour more.|150 miles|At 60 mph, you travel exactly one mile every minute.
+math|What is the next prime number after 7?|A prime only divides by 1 and itself.|8, 9, and 10 aren't prime.|11|There are infinitely many prime numbers; the Greek mathematician Euclid proved it.
+math|What is 1/2 + 1/4?|Turn 1/2 into fourths.|2/4 + 1/4.|3/4|Three-quarters of an hour is 45 minutes.
+math|What is 3 cubed (3³)?|That's 3 × 3 × 3.|3 × 3 = 9, then × 3.|27|A Rubik's Cube is a 3 × 3 × 3 cube made of 27 little cubes (well, 26 visible ones).
+math|What is 1,000 ÷ 8?|Half of 1,000 is 500; keep halving.|500, then 250, then ...|125|1/8 as a decimal is 0.125.
+math|How many seconds are in one hour?|60 seconds in a minute.|60 × 60.|3,600|There are 86,400 seconds in a day.
+math|What is the value of pi rounded to two decimal places?|It starts with 3.|Pi Day is on March 14 (3/14).|3.14|Pi Day, March 14, is also Albert Einstein's birthday.
+math|What is 9 × 11?|10 × 11 = 110.|Subtract one 11.|99|Any two-digit number times 11 has a trick: 11 × 23 = 2(2+3)3 = 253.
+math|What comes next: 1, 1, 2, 3, 5, 8, ...?|Add the two numbers before.|5 + 8.|13|This is the Fibonacci sequence, and its numbers show up in the spirals of sunflowers and pinecones.
+math|What is the area of a rectangle that is 6 feet by 7 feet?|Area = length × width.|6 × 7.|42 square feet|42 is also "the answer to life, the universe, and everything" in a famous funny sci-fi book.
+math|How many sides does a decagon have?|"Deca" means ...|A decade is this many years.|10|The prefix "deca-" means ten, as in decathlon, a contest with ten events.
+math|What is 0.5 written as a percent?|0.5 is one-half.|Half of 100%.|50%|"Percent" means "out of 100."
+math|If you start with 1 and double it 10 times, what do you get?|2, 4, 8, 16, 32 ...|64, 128, 256, 512 ...|1,024|In computing, 1,024 bytes has traditionally been called a kilobyte.
+math|What is 18 + 27 + 15?|Add 27 and the 3 from 18 first.|18 + 27 = 45, then + 15.|60|Grouping numbers that make tens (like 5 + 5) makes mental math much faster.
+math|What number does the Roman numeral L stand for?|V is 5, X is 10.|It's half of 100 (C).|50|There's no Roman numeral for zero.
+history|Which of the Seven Wonders of the Ancient World is the only one still standing?|It's in Egypt.|It's a huge pyramid.|The Great Pyramid of Giza|It was built about 4,500 years ago.
+history|In what year did the United States declare independence?|It's in the 1700s.|"Seventeen seventy-..."|1776|John Adams thought Americans would celebrate on July 2, the day Congress voted for independence.
+history|Who was the first emperor of Rome?|A summer month is named after him.|His name starts with "Aug".|Augustus|The month of August is named after him.
+history|Which document begins with the words "We the People"?|It was written in 1787.|It's the U.S. ...|The U.S. Constitution|It's often called the oldest written national constitution still in use.
+history|Which ancient civilization built the pyramid at Chichén Itzá in Mexico?|They had a famous calendar.|It starts with "M".|The Maya|On the spring and fall equinoxes, shadows make a "serpent" seem to slither down the pyramid's steps.
+history|Who invented a printing press with movable type in Europe around 1440?|He was German.|His name starts with "Guten".|Johannes Gutenberg|The Gutenberg Bible was one of the first major books printed this way.
+history|Which mission first landed people on the Moon in 1969?|It was part of the Apollo program.|Apollo, number 11.|Apollo 11|The astronauts brought back about 47 pounds of Moon rocks and soil.
+history|Who was the first woman to win a Nobel Prize?|She studied radioactivity.|Marie ...|Marie Curie|She's the only person to win Nobel Prizes in two different sciences: physics and chemistry.
+history|Which wall came down in 1989, reuniting a German city?|It divided East and West in one city.|It's named after Germany's capital.|The Berlin Wall|Pieces of the Berlin Wall are on display around the world, including in Los Angeles.
+history|Which British queen reigned for more than 70 years, until 2022?|She was the second queen with this name.|Elizabeth ...|Queen Elizabeth II|She's the longest-reigning British monarch ever.
+history|What was the name of the ancient trade route connecting China to Europe?|It's named after a fabric.|A smooth, shiny cloth made by worms.|The Silk Road|Goods, ideas, and even foods like noodles and spices traveled along it.
+history|Which Greek philosopher taught Alexander the Great?|He was a student of Plato.|His name starts with "Ari".|Aristotle|Aristotle wrote about almost everything, from animals to poetry.
+history|What right did the 19th Amendment give in 1920?|It was for women.|It has to do with elections.|Women's right to vote|Wyoming let women vote way back in 1869, before it was even a state.
+history|Whose expedition was the first to sail all the way around the world?|He was Portuguese, sailing for Spain.|Ferdinand M...|Ferdinand Magellan's|Magellan didn't make it all the way home, but his crew finished the trip in 1522.
+history|What business did the Wright brothers run before building airplanes?|It involved two wheels.|They sold and repaired them in Ohio.|A bicycle shop|They used their bike-building skills to make their first airplane.
+history|What language did the ancient Romans speak?|Many English words come from it.|It starts with "L".|Latin|Well over half of English words come from Latin, directly or through French.
+history|Who led the first expedition to reach the South Pole, in 1911?|He was from Norway.|Roald ...|Roald Amundsen|Amundsen's team used sled dogs to get there.
+history|Which Egyptian pharaoh's tomb was discovered nearly untouched in 1922?|He was a "boy king".|King Tut ...|Tutankhamun (King Tut)|Tutankhamun became pharaoh when he was only about 9 years old.
+history|Which empire, founded by Genghis Khan, was the largest connected land empire in history?|It started in Central Asia.|It starts with "M".|The Mongol Empire|Mongol riders carried messages using a relay system of horse stations across the empire.
+history|In what year did the first iPhone come out?|It was in the 2000s.|It was the year 2000 + 7.|2007|The first iPhone had no app store; it arrived a year later.
+words|What is the word for a word that imitates a sound, like "buzz" or "sizzle"?|It's long and hard to spell!|It starts with "onomato".|Onomatopoeia|"Onomatopoeia" comes from Greek words meaning "making a name."
+words|What is the plural of "cactus"?|It ends in an "i".|Cact...|Cacti (or cactuses)|Both "cacti" and "cactuses" are correct!
+words|What figure of speech compares two things using "like" or "as"?|"As brave as a lion."|It starts with "sim".|A simile|Without "like" or "as" ("He is a lion"), it's a metaphor.
+words|"The classroom was a zoo" is an example of what figure of speech?|It's a comparison without "like" or "as."|It starts with "meta".|A metaphor|"Metaphor" comes from a Greek word meaning "to carry across."
+words|Which language has the most native speakers in the world?|It's spoken in Asia.|It's a kind of Chinese.|Mandarin Chinese|Mandarin is a tonal language, so changing your pitch can change a word's meaning.
+words|What does the prefix "bi-" mean, as in "bicycle"?|Think "binoculars."|A bicycle has this many wheels.|Two|"Biweekly" can confusingly mean either twice a week or every two weeks.
+words|What is a word made from the first letters of other words, like NASA, called?|It starts with "ac".|Acro...|An acronym|NASA stands for National Aeronautics and Space Administration.
+words|What does "bibliophile" mean?|"Biblio" means book.|"Phile" means lover.|A book lover|A library is called "biblioteca" in Spanish.
+words|Which English word sounds exactly the same even if you remove its last four letters?|It's a line of people waiting.|It starts with "Q".|Queue|"Queue" is mostly used in British English; Americans say "line."
+words|What does "carnivore" mean in its original Latin?|"Carne" means meat.|"Vore" means to eat or swallow.|Meat-eater|"Herbivore" means "plant-eater."
+words|What do you call a sentence that uses every letter of the alphabet?|It starts with "pan", meaning "all".|"The quick brown fox..."|A pangram|"The quick brown fox jumps over the lazy dog" uses all 26 letters.
+words|Which Shakespeare play contains the line "To be, or not to be"?|It's about a Danish prince.|It starts with "H".|Hamlet|Hamlet is Shakespeare's longest play.
+words|How do you say "thank you" in Spanish?|It starts with "gra".|Gra ... cias!|Gracias|"De nada" means "you're welcome."
+words|Who wrote the Harry Potter books?|She's British.|J. K. ...|J. K. Rowling|She first came up with Harry Potter while on a delayed train.
+words|What is an exaggeration like "I've told you a million times" called?|It starts with "hyper".|Hyper-bo-lee.|Hyperbole|"Hyperbole" comes from Greek for "throwing beyond."
+words|The word "alphabet" comes from the first two letters of which alphabet?|Alpha and beta.|It's from an ancient country with Athens.|The Greek alphabet|Greek letters are used in math and science, like π (pi) and Δ (delta).
+words|Who wrote "Charlotte's Web"?|His initials are E. B.|E. B. W...|E. B. White|E. B. White also wrote "Stuart Little."
+words|What part of speech describes a verb, like "quickly"?|Many of them end in "-ly".|It "adds" to a verb.|An adverb|Words that describe nouns, like "blue," are adjectives.
+words|What does the acronym SCUBA stand for?|It's about breathing underwater.|Self-Contained Underwater Breathing ...|Self-Contained Underwater Breathing Apparatus|"Laser" is also an acronym: Light Amplification by Stimulated Emission of Radiation.
+words|Who wrote the "Percy Jackson" books?|His first name is Rick.|Rick R...|Rick Riordan|Rick Riordan was a middle school teacher before becoming a full-time author.
+body|What do red blood cells carry around your body?|It's a gas you breathe in.|It starts with "O".|Oxygen|Red blood cells get their color from hemoglobin, which contains iron.
+body|What is the longest bone in the human body?|It's in your leg.|It's your thigh bone.|The femur|Your femur is about one-quarter of your height.
+body|Which organs filter your blood and make urine?|There are two of them, shaped like beans.|They're in your lower back.|The kidneys|Your kidneys filter about 50 gallons of blood every day.
+body|Which organ makes bile and can regrow itself?|It's the biggest organ inside your body.|It starts with "L".|The liver|The liver can grow back even after part of it is removed.
+body|What are the blood vessels that carry blood away from the heart called?|Veins bring blood back.|It starts with "art".|Arteries|The biggest artery, the aorta, is about as wide as a garden hose.
+body|About how much of the human body is water?|More than half.|About three-fifths.|About 60%|You lose water just by breathing; that's why your breath fogs up a cold window.
+body|Which part of the brain controls balance and coordination?|Its name means "little brain."|It starts with "cere".|The cerebellum|The cerebellum is at the back of your brain, near your neck.
+body|Which vitamin does your skin make when sunlight hits it?|It's a letter after C.|The "sunshine vitamin."|Vitamin D|Vitamin D helps your body use calcium to build strong bones.
+body|How many chambers does the human heart have?|More than 2.|Two atria and two ventricles.|4|Your heart pumps about 2,000 gallons of blood every day.
+body|What is the dome-shaped muscle under your lungs that helps you breathe?|Hiccups happen when it twitches.|It starts with "dia".|The diaphragm|Hiccups are sudden twitches of the diaphragm.
+body|What do white blood cells do?|They're part of your immune system.|They fight off invaders.|Fight germs and infections|You have far fewer white blood cells than red ones: about 1 for every 600 or more.
+body|What is the scientific name for the kneecap?|It starts with "pat".|Pa-TEL-uh.|The patella|Babies' kneecaps are mostly soft cartilage, which slowly turns into bone.
+body|Which pointy teeth are named after dogs?|They're next to your front teeth.|Dogs are "canines."|Canine teeth|Canine teeth have the longest roots of any human teeth.
+body|What carries messages between your brain and body?|They're like wires.|They start with "N".|Nerves (the nervous system)|Some nerve signals travel more than 250 miles per hour.
+body|What are the tiny air sacs in your lungs called?|They look like bunches of grapes.|It starts with "alve".|Alveoli|Your lungs have hundreds of millions of alveoli.
+body|What protein makes up your hair and nails?|It starts with "K".|Rhino horns are made of it too.|Keratin|Your fingernails grow faster than your toenails.
+body|Which blood type is called the "universal donor"?|It's a letter that looks like a circle.|O ... negative or positive?|O negative|Only about 7% of people in the U.S. have O-negative blood.
+body|Which butterfly-shaped gland in your neck controls how fast your body uses energy?|It's near your Adam's apple.|It starts with "thy".|The thyroid|The thyroid needs iodine, which is why it's added to table salt.
+body|Which part of the eye, behind the pupil, focuses light?|It's like a camera's.|It starts with "L".|The lens|The image on your retina is upside down; your brain flips it right side up.
+general|How many players does a baseball team have on the field?|More than 8.|It's 3 × 3.|9|The Dodgers won the World Series in 2024 and again in 2025.
+general|How many squares are on a chessboard?|It's 8 rows of 8.|8 × 8.|64|There are more possible chess games than atoms in the observable universe.
+general|What is the currency of Japan?|It's three letters.|It starts with "Y".|The yen|The ¥ symbol is used for both the Japanese yen and the Chinese yuan.
+general|Who is the Greek god of the sea?|He carries a trident.|His name starts with "Pos".|Poseidon|The Romans called him Neptune, like the planet.
+general|What do the five Olympic rings stand for?|They're linked together.|Think of the inhabited parts of the world.|Five continents united by sport|The ring colors plus the white background include a color from every nation's flag of that time.
+general|Who painted "The Starry Night"?|He was Dutch.|Vincent van ...|Vincent van Gogh|He painted it in 1889 from the view out his window in France.
+general|Which programming language is named after a British comedy group?|It's also the name of a snake.|It starts with "Py".|Python|Python is named after "Monty Python," not the snake!
+general|What does "www" stand for in a web address?|World ...|World Wide ...|World Wide Web|Tim Berners-Lee invented the World Wide Web in 1989.
+general|How many cards are in a standard deck (without jokers)?|4 suits.|13 cards in each suit.|52|Some say 52 matches the weeks in a year, but no one knows if that's on purpose.
+general|What is Scotland's national animal?|It's a magical creature.|It has one horn.|The unicorn|The unicorn appears on the British royal coat of arms, next to a lion.
+general|Which country gave the Statue of Liberty to the United States?|Its capital is Paris.|It starts with "F".|France|The statue was shipped to New York in 350 pieces.
+general|Which metal is liquid at room temperature?|It's used in old thermometers.|It's also a planet's name.|Mercury|Gallium is a metal that melts right in your hand!
+general|How many time zones does the continental U.S. (lower 48 states) have?|Pacific is one of them.|Pacific, Mountain, Central, ...|4|Counting Alaska, Hawaii, and U.S. territories, there are 9 standard time zones.
+general|Which musical instrument has 47 strings and 7 pedals?|Angels are often shown playing it.|It starts with "H".|The concert harp|The red strings on a harp help players find their place (they're the C strings).
+general|Who wrote "Diary of a Wimpy Kid"?|His first name is Jeff.|Jeff K...|Jeff Kinney|Jeff Kinney also owns a bookstore in Massachusetts called "An Unlikely Story."
+general|Which instrument family does the trumpet belong to?|It's made of shiny metal.|It starts with "B".|Brass|French horns, trombones, and tubas are in the brass family too.
+general|What is the most-watched sports event in the U.S. each year?|It's American football.|Super ...|The Super Bowl|The Super Bowl is played on a Sunday in February.
+general|What does a "vegan" not eat?|Vegetarians skip meat.|Vegans skip even more, like eggs and milk.|Any animal products|The word "vegan" was coined in England in 1944.
+california|In what year did the California Gold Rush begin?|It's in the 1800s.|The miners were called "forty-niners" because they came a year later.|1848|Gold was first found at Sutter's Mill, in Coloma.
+california|What does "Los Angeles" mean in Spanish?|It's heavenly.|Los = "the."|"The Angels"|LA's original Spanish name was much longer, often given as "El Pueblo de Nuestra Señora la Reina de los Ángeles."
+california|What is the highest mountain in the lower 48 states, located in California?|It's in the Sierra Nevada.|Mount Whit...|Mount Whitney|Mount Whitney is 14,505 feet tall.
+california|What is the lowest point in North America, located in California?|It's in a famous national park.|It's Badwater Basin, in Death ...|Badwater Basin in Death Valley|It's 282 feet below sea level, and it's only about 85 miles from Mount Whitney.
+california|Which big, clear blue lake sits on the border of California and Nevada?|It's a famous ski area.|Lake T...|Lake Tahoe|Lake Tahoe's water is so clear you can often see more than 60 feet down.
+california|Which city will host the 2028 Summer Olympics?|It's close to home!|It's the biggest city in California.|Los Angeles|LA also hosted the Olympics in 1932 and 1984.
+california|Which NFL team is named after Gold Rush miners?|It's from San Francisco.|Forty-...|The San Francisco 49ers|The miners were called "forty-niners" because so many arrived in 1849.
+california|How many Spanish missions were built along the California coast?|More than 20.|It's 3 × 7.|21|The missions were founded between 1769 and 1823, and Mission San Fernando is near Northridge.
+california|Which California trees include some of the oldest living things on Earth?|They're pine trees in the White Mountains.|Bristle...|Great Basin bristlecone pines|One bristlecone pine, nicknamed Methuselah, is about 4,800 years old.
+california|Which national park is famous for Half Dome and El Capitan?|It's in the Sierra Nevada.|It starts with "Yo".|Yosemite|Yosemite Falls is one of the tallest waterfalls in North America.
+california|What is the largest tree in the world by volume?|It's a giant sequoia.|It's named after a Civil War general.|The General Sherman Tree|It's in Sequoia National Park and is more than 2,000 years old.
+california|Which highway runs along much of California's coast as the Pacific Coast Highway?|It's the lowest-numbered state highway.|Highway ...|Highway 1|Highway 1 runs more than 650 miles along the coast.
+california|Which LA art museum sits on a hill and has a little tram to the top?|It's named after an oil businessman.|The G...y Center.|The Getty Center|Admission to the Getty Center is free.
+california|In what year did California become a U.S. state?|It was right after the Gold Rush started.|It's in the year 1800-and-something, exactly halfway through the century.|1850|California was the 31st state.
+california|Which island off the LA coast has a town called Avalon?|You can take a ferry there.|Santa Cat...|Santa Catalina Island|A herd of bison lives on Catalina; they were brought there for a movie in the 1920s.
+california|Which LA beach neighborhood was built with canals to look like an Italian city?|It has a famous boardwalk and skate park.|It has the same name as the Italian city.|Venice|Venice, California, was founded in 1905 by Abbot Kinney.
+california|What is California's state tree?|It's very, very tall.|California red...|The California redwood|The state tree includes both the coast redwood and the giant sequoia.
+california|What is the name of the old Spanish mission near Northridge?|It shares its name with the Valley.|Mission San F...|Mission San Fernando Rey de España|It was founded in 1797 and is in Mission Hills, just a few miles from Northridge.
+california|Which famously busy LA freeway, the San Diego Freeway, runs through the Valley near Northridge?|It goes over the Sepulveda Pass to the Westside.|It's a number between 400 and 410.|The 405|Californians famously put "the" in front of freeway numbers, like "the 405" and "the 101."
