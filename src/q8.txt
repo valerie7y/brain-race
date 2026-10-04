@@ -1,182 +1,257 @@
-animals|What is the largest animal that has ever lived on Earth?|It lives in the ocean.|It's a whale named after a color.|The blue whale|A blue whale can be longer than two school buses parked end to end.
-animals|How many legs does a spider have?|More than an insect has.|Double the number 4.|8|Spiders are not insects; they're arachnids, cousins of scorpions.
-animals|What is a baby kangaroo called?|It's a short word that's also a boy's name.|It rhymes with "Chloe" ... J-something!|A joey|A newborn joey is only about the size of a jellybean.
-animals|Which bird can't fly but is the fastest runner of all birds?|It's the biggest bird in the world.|It lives in Africa and starts with "O".|The ostrich|Ostriches can sprint about 45 miles per hour, as fast as a car on a city street.
-animals|What is the only mammal that can truly fly?|It comes out at night.|It sleeps hanging upside down.|The bat|Many bats find food in the dark by listening to the echoes of their own squeaks.
-animals|How many hearts does an octopus have?|More than one!|It's between 2 and 4.|3|An octopus also has blue blood!
-animals|Which animal is called the "King of the Jungle"?|It has a big furry mane.|It ROARS!|The lion|Lions actually live mostly in grasslands and savannas, not jungles.
-animals|Which black-and-white striped animal is a cousin of the horse?|It lives in Africa.|It starts with the letter Z.|The zebra|Every zebra's stripe pattern is different, like a fingerprint.
-animals|What do caterpillars turn into?|It happens inside a chrysalis or cocoon.|They get colorful wings!|Butterflies (or moths)|Butterflies taste things with their feet.
-animals|What is the tallest animal in the world?|It has a super long neck.|It has spots and eats leaves from treetops.|The giraffe|A giraffe's tongue can be about 20 inches long, and it's dark purple.
-animals|What is a group of fish swimming together called?|It's also a place where you go to learn.|It starts with "S".|A school|Swimming in a big school helps fish stay safe from hungry predators.
-animals|What sweet food do bees make?|It's golden and sticky.|You can put it on toast or in tea.|Honey|Honey lasts so long that archaeologists have found honey thousands of years old in Egyptian tombs.
-animals|Which lizard is famous for changing its color?|Its eyes can look in two different directions at once.|Its name starts with "cha".|The chameleon|A chameleon's tongue can be longer than its whole body.
-animals|What is a baby dog called?|It's a short, cute word.|It starts with "P".|A puppy|Puppies are born with their eyes closed and open them at about two weeks old.
-animals|What is the biggest kind of cat in the world?|It has stripes.|It's orange and black.|The tiger|No two tigers have exactly the same stripes.
-animals|Which super-slow animal hangs in rainforest trees and can have algae growing in its fur?|It's famous for being slow.|It starts with "S" and rhymes with "cloth".|The sloth|Sloths climb down from their trees only about once a week to go to the bathroom.
-animals|What do giant pandas mostly eat?|It's a plant.|It grows in tall green stalks.|Bamboo|A giant panda can spend 10 to 16 hours a day eating.
-animals|How many legs does an insect have?|Fewer than a spider.|Three pairs.|6|An insect's body has three parts: head, thorax, and abdomen.
-science|What do plants need from the sun to make their own food?|It's what makes the daytime bright.|It starts with "L".|Sunlight|Making food from sunlight is called photosynthesis, and it gives off the oxygen we breathe.
-science|What do we call frozen water?|You put it in drinks to make them cold.|It's cold, hard, and slippery.|Ice|Ice floats because it's lighter than the same amount of liquid water.
-science|What are the three forms (states) of matter you see every day?|Water can be all three!|Think ice, water, and steam.|Solid, liquid, and gas|There's a fourth state called plasma, and lightning is made of it.
-science|What invisible force pulls things down toward the ground?|It makes an apple fall from a tree.|It starts with "G".|Gravity|On the Moon, gravity is about 1/6 as strong, so you could jump about six times higher.
-science|What color do you get when you mix blue paint and yellow paint?|It's the color of grass.|Leaves are usually this color.|Green|Light mixes differently than paint: red light plus green light makes yellow!
-science|How many colors are in a rainbow?|Remember "ROY G BIV."|It's the same as the number of days in a week.|7|The colors are red, orange, yellow, green, blue, indigo, and violet.
-science|What kind of things does a magnet pick up?|Paper clips and nails stick to it.|A certain kind of metal, like iron.|Some metals, like iron and steel|Earth acts like a giant magnet, which is why a compass needle points north.
-science|What do we call water that falls from clouds as drops?|You need an umbrella for it.|It starts with "R".|Rain|Falling raindrops are shaped more like hamburger buns than teardrops.
-science|What gas do we need to breathe in to stay alive?|Trees and plants make it.|It starts with "O".|Oxygen|Only about 21% of the air is oxygen; most of the rest is nitrogen.
-science|What gas do we breathe out that plants use to grow?|It makes the bubbles in soda.|Carbon ... something.|Carbon dioxide|Plants take in carbon dioxide and give back oxygen, so we're great teammates.
-science|What is the hardest natural material on Earth?|It's used in sparkly rings.|It's a clear, shiny gem.|Diamond|Diamonds are made of carbon, the same element as the graphite in your pencil.
-science|What tool do scientists use to see super-tiny things like cells?|It uses lenses.|Its name starts with "micro".|A microscope|The first microscopes were invented over 400 years ago.
-science|What causes the loud sound of thunder?|It always comes with a flash in a storm.|The flash heats the air super fast.|Lightning|A lightning bolt heats the air to about five times hotter than the surface of the Sun.
-science|Which is heavier: a pound of feathers or a pound of rocks?|It's a trick question!|Listen carefully to the words "a pound."|Neither! They both weigh one pound|Feathers just take up a lot more space, which is why they seem lighter.
-science|What do you call a scientist who studies dinosaur fossils?|They dig up old bones.|It starts with "paleo".|A paleontologist|The word "dinosaur" means "terrible lizard."
-science|What falls from clouds as white, frozen flakes?|You can build a man out of it.|It's white and cold.|Snow|Most snowflakes have six sides or six arms.
-science|What does a thermometer measure?|It tells if something is hot or cold.|The doctor uses one to check for a fever.|Temperature|Water freezes at 32 degrees Fahrenheit, which is 0 degrees Celsius.
-science|Which travels faster: sound or light?|It's why you see lightning before you hear thunder.|You see it before you hear it.|Light|Light is almost a million times faster than sound.
-space|What planet do we live on?|It's the third planet from the Sun.|It has oceans, forests, and you!|Earth|About 71% of Earth is covered by water.
-space|What is the closest star to Earth?|You can see it in the daytime.|It makes it sunny!|The Sun|Sunlight takes about 8 minutes to travel from the Sun to Earth.
-space|Which planet is called the Red Planet?|It's named after the Roman god of war.|It starts with "M".|Mars|Mars looks red because its dirt has rusty iron in it.
-space|What is the biggest planet in our solar system?|It's a giant ball of gas with a Great Red Spot.|It starts with "J".|Jupiter|More than 1,300 Earths could fit inside Jupiter.
-space|Which planet has famous rings that are easy to see in a telescope?|It's the sixth planet from the Sun.|It starts with "S".|Saturn|Saturn is so light for its size that it would float in a (giant!) bathtub.
-space|How many planets are in our solar system?|Pluto doesn't count anymore.|It's fewer than 10.|8|Pluto was renamed a "dwarf planet" in 2006.
-space|Who was the first person to walk on the Moon?|He was an American astronaut in 1969.|His first name is Neil.|Neil Armstrong|His footprints are probably still there, because there's no wind on the Moon to blow them away.
-space|What do we call a person who travels into space?|It starts with "astro".|It ends with "naut".|An astronaut|Russian space travelers are called cosmonauts.
-space|Which planet is closest to the Sun?|It's the smallest planet.|It shares its name with a Roman messenger god.|Mercury|A year on Mercury lasts just 88 Earth days.
-space|What is the name of our galaxy?|It sounds like a candy bar.|Milky ...|The Milky Way|Our galaxy has more than 100 billion stars.
-space|What shape is the Earth?|It's round.|Like a ball.|A sphere (a round ball)|Earth is a little wider around the middle than from pole to pole.
-space|How long does it take Earth to spin around once?|That's one day.|Count the hours on a clock, twice.|About 24 hours|At the equator, Earth spins at about 1,000 miles per hour, but we don't feel it.
-space|How long does it take Earth to travel all the way around the Sun?|That's one year.|It's about 365 of something.|About 365 days (one year)|Every four years we add February 29 to keep the calendar on track; that's a leap year.
-space|What is a "shooting star" really?|It's not a star at all!|It's a space rock burning up in our air.|A meteor (a space rock burning up)|Most meteors are only about the size of a grain of sand.
-space|Which planet is the hottest?|It's not the closest one to the Sun!|It's the second planet, covered in thick clouds.|Venus|Venus is hotter than Mercury because its thick clouds trap heat like a blanket.
-space|Where does the Moon get its light?|The Moon doesn't make its own light.|It bounces light from something very bright.|From the Sun (it reflects sunlight)|The same side of the Moon always faces Earth.
-space|What do astronauts wear to stay safe outside their spaceship?|It has a helmet and gloves.|It's a special suit.|A spacesuit|A NASA spacewalk suit weighs about 280 pounds on Earth, but it floats in orbit.
-space|What is the name of the giant science lab where astronauts live while circling Earth?|Its initials are ISS.|International Space ...|The International Space Station|The space station circles Earth about 16 times every day.
-geography|What is the largest ocean on Earth?|It's right next to California.|It starts with "P".|The Pacific Ocean|The Pacific Ocean is bigger than all the land on Earth put together.
-geography|How many continents are there?|More than 5.|Fewer than 10.|7|Asia is the biggest continent, and Australia is the smallest.
-geography|Which continent do we live on?|It includes the USA, Canada, and Mexico.|North ...|North America|North America has Lake Superior, the biggest freshwater lake in the world by area.
-geography|What is the longest river in Africa?|It flows through Egypt.|It starts with "N".|The Nile|The Nile flows north, which is unusual for a big river.
-geography|Which country is shaped like a boot?|It's famous for pizza and pasta.|It's in Europe and its capital is Rome.|Italy|Pizza as we know it was invented in Naples, Italy.
-geography|What is the capital of the United States?|It's named after the first president.|Its initials are D.C.|Washington, D.C.|The President lives and works in the White House there.
-geography|Which continent is the coldest?|The South Pole is there.|Penguins live there.|Antarctica|Antarctica is also the windiest and driest continent.
-geography|Which country is directly north of the United States?|It has a maple leaf on its flag.|It starts with "C".|Canada|Canada has the longest coastline of any country in the world.
-geography|Which country is directly south of the United States?|Tacos and piñatas come from there.|Its capital has the same name as the country.|Mexico|Mexico City was built on top of an old lake.
-geography|What is the tallest mountain in the world?|It's in Asia, in the Himalayas.|Mount E...|Mount Everest|Mount Everest is about 29,000 feet tall, about five and a half miles high!
-geography|What is the biggest hot desert in the world?|It's in Africa.|It starts with "S".|The Sahara|The Sahara is almost as big as the whole United States.
-geography|Which country is famous for the pyramids of Giza?|It's in Africa, along the Nile.|Pharaohs ruled there.|Egypt|The Great Pyramid was the tallest building on Earth for more than 3,800 years.
-geography|What do we call land with water all around it?|Hawaii is made of them.|It starts with "I".|An island|Greenland is the biggest island in the world.
-geography|What is the capital of France?|The Eiffel Tower is there.|It starts with "P".|Paris|The Eiffel Tower grows about 6 inches taller in summer because the metal expands in the heat.
-geography|In which country do kangaroos and koalas live in the wild?|It's also a continent.|It's way down under!|Australia|Australia is the only country that's also a whole continent.
-geography|What is the imaginary line around the middle of the Earth called?|The hottest places are near it.|It starts with "E".|The equator|The equator is about 24,900 miles around.
-geography|Which U.S. state is made up entirely of islands?|It has volcanoes and great surfing.|People say "Aloha" there.|Hawaii|Hawaii became the 50th state in 1959.
-geography|Which country has the most people in the world?|It's in Asia and has the Taj Mahal.|It passed China in 2023.|India|More than 1.4 billion people live in India.
-math|What is 7 + 8?|It's one more than 7 + 7.|7 + 7 = 14.|15|15 minutes is exactly a quarter of an hour.
-math|What is 6 × 3?|That's three sixes.|6 + 6 + 6.|18|Order doesn't matter in multiplying: 6 × 3 is the same as 3 × 6!
-math|What is 20 − 7?|Count back from 20.|20 − 10 = 10, then add 3 back.|13|A "baker's dozen" is 13, not 12!
-math|How many sides does a hexagon have?|Look at a honeycomb.|It's one more than a pentagon.|6|Bees build hexagons because they fit together perfectly with no gaps.
-math|What is half of 50?|Think about coins.|It's what a quarter is worth in cents.|25|A quarter is called that because it's one-fourth of a dollar.
-math|How many minutes are in one hour?|It's the same as the number of seconds in a minute.|It's 6 tens.|60|We count time in 60s because the ancient Babylonians counted in groups of 60.
-math|You have 3 bags with 4 apples in each. How many apples is that?|4 + 4 + 4.|3 × 4.|12|Twelve of something is called a dozen.
-math|What is 9 + 9 + 2?|Start with 9 + 9.|18 + 2.|20|If you count all your fingers and toes, you get exactly 20!
-math|How many days are in a week?|Monday, Tuesday, Wednesday ...|It's the same as the colors in a rainbow.|7|Thursday is named after Thor, the old Norse god of thunder.
-math|What is 100 − 25?|Like a dollar minus a quarter.|That's three quarters.|75|Three quarters make 75 cents.
-math|What is 5 × 5?|Five groups of five.|5, 10, 15, 20 ...|25|Numbers made by multiplying a number by itself, like 25, are called square numbers.
-math|How many legs do 3 dogs have altogether?|Each dog has 4 legs.|4 + 4 + 4.|12|Dogs actually walk on their toes!
-math|What is double 15?|15 + 15.|10 + 10 = 20, and 5 + 5 = 10.|30|Doubling something is the same as multiplying it by 2.
-math|What number comes next: 2, 4, 6, 8, ...?|Count by twos.|It's one more than 9.|10|Numbers you land on when counting by twos are called even numbers.
-math|How many sides does a triangle have?|"Tri" means ...|Think of a tricycle's wheels.|3|Triangles are super strong, which is why they're used to build bridges.
-math|A pizza has 8 slices and you eat 3. How many are left?|8 minus 3.|Count back three from 8.|5|5 out of 8 slices can be written as the fraction 5/8.
-math|What is 10 × 10?|Ten tens.|It's a 1 followed by two zeros.|100|A "century" is 100 years.
-math|How many cents are in one dollar?|It takes 4 quarters.|It's the same as 10 dimes.|100|The word "cent" comes from the Latin word for 100.
-math|What is 12 − 5?|12 − 2 = 10.|Then take away 3 more.|7|Seven is the most popular "favorite number" in surveys around the world.
-math|How many wheels do 4 bicycles have?|Each bike has 2 wheels.|2 + 2 + 2 + 2.|8|One of the first bicycles, made in Germany in 1817, had no pedals; riders pushed with their feet!
-history|Who was the first President of the United States?|His face is on the one-dollar bill.|His first name is George.|George Washington|George Washington is the only president who never lived in the White House.
-history|What did the Wright brothers invent?|They flew at Kitty Hawk in 1903.|It has wings and an engine.|The first successful airplane|Their very first flight lasted only about 12 seconds.
-history|What holiday celebrates America's birthday?|It's in July.|There are fireworks!|Independence Day (the Fourth of July)|The Declaration of Independence was approved on July 4, 1776.
-history|Who wrote most of the Declaration of Independence?|He became the third president.|His first name is Thomas.|Thomas Jefferson|Thomas Jefferson's face is on the nickel.
-history|Which American leader gave the famous "I Have a Dream" speech?|We celebrate a holiday for him in January.|Martin Luther ...|Martin Luther King Jr.|More than 250,000 people came to hear the speech in Washington, D.C., in 1963.
-history|What did ancient Romans build to carry water into their cities?|Its name starts with "aqua".|They look like long stone bridges.|Aqueducts|Some Roman aqueducts are still standing after about 2,000 years.
-history|According to a famous legend, who sewed the first American flag?|She was a seamstress in Philadelphia.|Her first name is Betsy.|Betsy Ross|Historians aren't sure the story is true, but you can still visit the Betsy Ross House.
-history|How many stars are on the U.S. flag?|There's one for each state.|It's 5 tens.|50|Today's 50-star flag was designed by a high school student named Robert Heft for a school project.
-history|How many stripes are on the U.S. flag?|They stand for the first colonies.|It's a baker's dozen.|13|The 13 stripes stand for the 13 original colonies.
-history|What was the name of the ship that carried the Pilgrims to America in 1620?|It's named after a flower and a month.|May ...|The Mayflower|The trip across the ocean took about 66 days.
-history|Who was the first woman to fly an airplane alone across the Atlantic Ocean?|Her first name is Amelia.|Her last name starts with "E".|Amelia Earhart|She made the flight in 1932, landing in a field in Northern Ireland.
-history|What very long wall in Asia was built over many centuries?|It's in China.|It's called "Great".|The Great Wall of China|It's a myth that you can see the Great Wall from space with just your eyes.
-history|Which president is famous for his tall hat and is on the penny?|He was the 16th president.|His nickname is "Honest Abe".|Abraham Lincoln|At 6 feet 4 inches, Lincoln was the tallest U.S. president.
-history|What did most people ride to travel over land before cars?|It goes "neigh"!|It pulled wagons and carriages.|Horses|The first cars were nicknamed "horseless carriages."
-history|Who painted the Mona Lisa?|He was an Italian artist and inventor.|Leonardo ...|Leonardo da Vinci|The Mona Lisa has no visible eyebrows!
-history|In which country were the first Olympic Games held?|Its capital is Athens.|It's in southern Europe and starts with "G".|Ancient Greece|The first recorded ancient Olympics were held in 776 BC.
-history|Which explorer sailed across the Atlantic in 1492?|His ships were the Niña, the Pinta, and the Santa María.|His first name is Christopher.|Christopher Columbus|Columbus thought he had reached Asia!
-history|Who invented the telephone?|His last name is something that rings.|Alexander Graham ...|Alexander Graham Bell|Bell wanted people to answer the phone by saying "Ahoy!"
-history|What did Benjamin Franklin fly in a storm to learn about electricity?|It has a long string.|You fly it on a windy day.|A kite|Ben Franklin also invented bifocal glasses and the lightning rod.
-words|What do you call a word that means the opposite of another word?|Like "hot" and "cold."|It starts with "ant".|An antonym|Words that mean the same thing, like "big" and "large," are synonyms.
-words|How many letters are in the English alphabet?|More than 20.|It's 2 more than 24.|26|The letter used most in English is E.
-words|What is the plural of "mouse"?|It's not "mouses"!|It rhymes with "ice".|Mice|More than one goose is geese, but more than one moose is still moose!
-words|Which letter is the only one that isn't in any U.S. state's name?|It's almost always followed by a U.|It sounds like "queue".|Q|Even X and Z show up in state names: Texas and Arizona!
-words|What do you call a word spelled the same forward and backward, like "mom"?|"Racecar" is one too.|It starts with "P".|A palindrome|"Kayak," "level," and "noon" are palindromes too.
-words|What word do you get if you spell "pots" backward?|Read it from the S.|It's what a red sign tells you to do.|Stop|"Pots," "stop," "tops," "spot," and "post" all use the same four letters.
-words|What are the five main vowels?|"A" is one.|A, E, I, O, and ...|A, E, I, O, U (and sometimes Y)|Every word in English has at least one vowel sound.
-words|What do we call the person who writes a book?|It starts with "A".|Their name is on the cover.|The author|The person who draws the pictures is called the illustrator.
-words|Finish the saying: "The early bird catches the ___."|It's something birds love to eat.|It's long and wiggly.|Worm|It means people who start early often get the best chance.
-words|Which of these is a noun: run, blue, or dog?|A noun is a person, place, or thing.|You can pet it.|Dog|"Run" is a verb (an action), and "blue" is an adjective (it describes).
-words|What is the opposite of "ancient"?|"Ancient" means very, very old.|Brand ...|New (or modern)|The word "ancient" comes from an old French word meaning "before."
-words|What do you call words that sound the same but mean different things, like "sea" and "see"?|It starts with "homo".|Homo ... phones.|Homophones|"Flower" and "flour" are homophones too.
-words|What does "enormous" mean?|An elephant is ...|The opposite of tiny.|Very big (huge)|Other words for enormous are gigantic, massive, and colossal.
-words|What sound does "ph" make, like in "phone"?|It's the same sound as another letter.|Fffff ...|An "f" sound|"Elephant" and "dolphin" also have a "ph" that sounds like "f."
-words|Which word has more letters: "elephant" or "alligator"?|Count them out!|Elephant has 8 letters.|Alligator (9 letters)|The ancestors of alligators lived alongside the dinosaurs.
-words|What is the opposite of "whisper"?|It's very loud.|It starts with "sh".|Shout (or yell)|How loud a sound is gets measured in decibels.
-words|What word rhymes with "cat" and is something you wear on your head?|It keeps the sun off your face.|Baseball players wear one.|Hat|Rhyming words share the same ending sound, like cat, hat, bat, and mat.
-body|How many bones does a grown-up have?|More than 200.|Between 200 and 210.|206|Babies are born with about 300 bones, and some of them join together as they grow.
-body|What is the biggest organ of your body?|You can touch it right now.|It covers your whole body.|Your skin|Your body replaces the outer layer of your skin every few weeks.
-body|What organ pumps blood all around your body?|It beats.|It's in your chest, a little to the left.|Your heart|Your heart beats about 100,000 times every day.
-body|How many teeth do most grown-ups have?|More than 30.|That includes wisdom teeth.|32|Kids have 20 baby teeth.
-body|What part of your body do you think with?|It's inside your head.|It starts with "B".|Your brain|Your brain uses about 20% of your body's energy.
-body|What do your lungs help you do?|In and out.|You do it all day without thinking.|Breathe|Your left lung is a little smaller than your right to make room for your heart.
-body|Which of your senses uses your nose?|Think of flowers and cookies baking.|It starts with "S".|Smell|Your sense of smell does a lot of the work when you taste food.
-body|What is the hardest thing in your body?|It's in your mouth.|It's the shiny outer layer of your teeth.|Tooth enamel|Tooth enamel is even harder than bone.
-body|Where is the smallest bone in your body?|It helps you hear.|It's inside your ear.|In your ear (the stirrup bone)|The stirrup bone is about the size of a grain of rice.
-body|What color is the blood inside your body?|It's the same color it looks when you get a scrape.|Veins only look bluish through your skin.|Red|Blood is always red, darker red when it's low on oxygen.
-body|What do we call the bones that protect your heart and lungs?|They curve around like a cage.|Barbecue ... !|Your ribs (rib cage)|Most people have 12 pairs of ribs.
-body|Which body part helps you keep your balance?|It's not your feet!|It's the same body part you hear with.|Your inner ear|Spinning makes you dizzy because the liquid in your inner ear keeps swirling after you stop.
-body|Which muscle in your mouth helps you talk and taste?|It's pink.|You stick it out at the doctor.|Your tongue|Your tongue has thousands of taste buds, and they are replaced every week or two.
-body|How many senses do we usually say people have?|Sight, hearing, smell ...|Count on one hand.|5|Scientists say we have even more senses, like balance.
-body|What does your stomach do?|It works after you eat.|It mashes food with special juices.|Breaks down (digests) food|Your stomach makes a new lining every few days so it doesn't digest itself.
-body|What are the tiny holes in your skin that sweat comes out of?|They're super small.|It starts with "P".|Pores|Sweat cools you down when it dries off your skin.
-body|What is the colored part of your eye called?|Brown, blue, green, or hazel.|It starts with "I".|The iris|The black circle in the middle is called the pupil.
-body|Where is the biggest muscle in your body?|You use it to stand up and climb stairs.|You're sitting on it right now!|Your bottom (the gluteus maximus)|The gluteus maximus helps keep your body standing up straight.
-general|What color do you get when you mix red and white?|It's a lighter red.|Flamingos are this color.|Pink|Flamingos are pink because of the shrimp and algae they eat.
-general|How many players does a soccer team have on the field?|Count the goalie too.|It's more than 10.|11|Soccer is called "football" in most of the world.
-general|Which sport uses a bat, a ball, and four bases?|The Dodgers play it.|"Take me out to the ball game!"|Baseball|A baseball has exactly 108 double stitches.
-general|What is the name of the toy building bricks that come from Denmark?|It has four letters.|L-E-...|LEGO|"LEGO" comes from the Danish words "leg godt," which mean "play well."
-general|In which game do you say "checkmate"?|It has kings, queens, and knights.|It's played on a black-and-white board.|Chess|The knight is the only chess piece that can jump over other pieces.
-general|What is the nickname of the giant bell in London's famous clock tower?|It's a name, Big ...|Big B...|Big Ben|The tower itself is officially called the Elizabeth Tower.
-general|How many strings does a regular guitar have?|More than 4.|It's half a dozen.|6|The guitar's thickest string plays the lowest note.
-general|What is the most popular sport in the world?|You mostly use your feet.|It's called football almost everywhere outside the U.S.|Soccer|The World Cup is watched by billions of people.
-general|Finish the saying: "An ___ a day keeps the doctor away."|It's a fruit.|It can be red, green, or yellow.|Apple|Apples float in water because they're about 25% air.
-general|What yellow fruit are monkeys famous for loving?|You peel it.|It's long and curved.|Banana|Scientists call bananas berries, but not strawberries!
-general|What green fruit is the main ingredient in guacamole?|It has a big pit in the middle.|It starts with "A".|Avocado|California grows most of the avocados in the United States.
-general|How many sides does a stop sign have?|More than a hexagon.|It's an octagon, like an octopus has arms.|8|The special shape lets drivers recognize a stop sign even from the back.
-general|What is a word puzzle where words go across and down in little squares?|It's in newspapers.|Cross ...|A crossword|The first crossword puzzle was printed in a newspaper in 1913.
-general|Which musical instrument has 88 keys?|It has black and white keys.|It can be "grand"!|The piano|A piano has 52 white keys and 36 black keys.
-general|What do you call a house made out of blocks of snow?|It's dome-shaped.|It starts with "I".|An igloo|Snow traps heat well, so inside an igloo can be much warmer than outside.
-general|What color are school buses in the U.S.?|It's a bright, sunny color.|Same color as a banana.|Yellow|School bus yellow was chosen because it's easy to see, even in the early morning.
-general|How many players from each team are on a basketball court at one time?|Fewer than soccer.|Count the fingers on one hand.|5|Basketball was invented in 1891, using peach baskets as hoops.
-california|What is the capital of California?|It's not Los Angeles!|It starts with "Sacra".|Sacramento|Sacramento grew fast during the California Gold Rush.
-california|What famous sign stands on a hill in Los Angeles?|It has big white letters.|It's the name of a famous movie neighborhood.|The Hollywood sign|It used to say "HOLLYWOODLAND"; the last four letters were taken off in 1949.
-california|What animal is on the California state flag?|It's big and furry.|It's a kind of bear.|A grizzly bear|Grizzly bears don't live wild in California anymore, but the flag honors them.
-california|What is the name of LA's baseball team?|Their color is blue.|Their name starts with "D".|The Los Angeles Dodgers|The Dodgers moved to Los Angeles from Brooklyn, New York, in 1958.
-california|What famous orange-red bridge is in San Francisco?|It's named after a shiny color.|Golden ...|The Golden Gate Bridge|The bridge's color is officially called "International Orange."
-california|What is California's nickname?|Think of a shiny yellow metal.|The Golden ...|The Golden State|People rushed to California looking for gold starting in 1848.
-california|Which valley is Northridge in?|It's named after a saint.|San Fernando ...|The San Fernando Valley|People in LA often just call it "the Valley."
-california|Which California trees are the tallest in the world?|They have reddish bark.|Coast red...|Coast redwoods|The tallest redwood, named Hyperion, is more than 380 feet tall!
-california|What is the name of the famous pier in Santa Monica with a Ferris wheel?|It's named after the city.|Santa Monica ...|The Santa Monica Pier|The famous Route 66 ends near the Santa Monica Pier.
-california|What is California's state flower?|It's bright orange.|California ... poppy!|The California poppy|Poppies close their petals at night and on cloudy days.
-california|Which famous theme park with a famous mouse is in Anaheim?|Mickey lives there.|Disney ...|Disneyland|Disneyland opened in 1955.
-california|What is the name of LA's purple-and-gold basketball team?|LeBron James played for them.|Their name starts with "L".|The Los Angeles Lakers|The team is named "Lakers" because it started in Minnesota, the "Land of 10,000 Lakes."
-california|Which famous observatory sits on a hill in LA's Griffith Park?|It's where people look at stars and planets.|It has the park's name.|Griffith Observatory|Anyone can look through Griffith Observatory's public telescopes for free.
-california|What sticky place in Los Angeles is famous for Ice Age fossils?|It's on Wilshire Boulevard.|La Brea Tar ...|The La Brea Tar Pits|"La brea" means "the tar" in Spanish, so the name means "the tar tar pits"!
-california|Which famous Hollywood sidewalk has stars with famous names on it?|Walk of ...|The Hollywood Walk of ...|The Hollywood Walk of Fame|There are more than 2,700 stars on the Walk of Fame.
-california|What is California's state bird?|It has a curly feather plume on its head.|California ... (it rhymes with "pail").|The California quail|California quails often live in groups called coveys.
-california|What area near San Francisco is famous for computer and tech companies?|It's named after something inside computer chips.|Silicon ...|Silicon Valley|It's named for silicon, the material used to make computer chips.
-california|What mountains rise just north of Northridge, near Porter Ranch?|They're named after a saint.|Santa Su...|The Santa Susana Mountains|Long ago, stagecoaches bumped over the steep Santa Susana Pass into the Valley.
-california|What big university is in Northridge?|Its nickname is four letters, C-S-U-N.|California State University ...|Cal State Northridge (CSUN)|The CSUN sports teams are called the Matadors.
+animals|What is the biggest animal in the whole world?|It lives in the ocean and it's a kind of whale.|It's named after the color of the sky: the B___ whale.|The blue whale|A blue whale can be longer than two school buses parked end to end.
+animals|How many legs does a spider have?|It's more than an insect has.|It's the same number as an octopus's arms, and it rhymes with "gate."|8|Spiders are not insects; they're cousins of scorpions.
+animals|What is a baby kangaroo called?|It rides in its mom's pouch.|It starts with J and rhymes with "Chloe."|A joey|A newborn joey is only about the size of a jellybean.
+animals|Which giant bird can't fly but runs super fast?|It's the biggest bird in the world and has a long neck.|It starts with "Os-" and rhymes with "rich."|The ostrich|Ostriches can run about 45 miles per hour, as fast as a car on a city street.
+animals|Which furry animal can fly and sleeps hanging upside down?|It comes out at night.|It rhymes with "cat," and you hit a ball with one in baseball.|The bat|Many bats find food in the dark by listening to the echoes of their own squeaks.
+animals|Which animal is called the "King of the Jungle"?|It has a big furry mane and ROARS!|It starts with L: L-I-O-N.|The lion|Lions actually live mostly in grasslands, not jungles.
+animals|Which black-and-white striped animal looks like a horse?|It lives in Africa.|It starts with Z.|The zebra|Every zebra's stripe pattern is different, like a fingerprint.
+animals|What does a caterpillar turn into?|It grows colorful wings.|It starts with B and has "butter" in its name!|A butterfly (or a moth)|Butterflies taste things with their feet.
+animals|What is the tallest animal in the world?|It has a super long neck and spots.|It starts with G: gi-RAFFE.|The giraffe|A giraffe's tongue can be about 20 inches long, and it's dark purple.
+animals|What sweet food do bees make?|It's golden and sticky.|Winnie the Pooh loves it! It starts with H.|Honey|Honey lasts so long that archaeologists have found honey thousands of years old in Egyptian tombs.
+animals|What is a baby dog called?|It's small, cute, and playful.|It starts with P and rhymes with "guppy."|A puppy|Puppies are born with their eyes closed and open them at about two weeks old.
+animals|What is the biggest kind of cat in the world?|It's orange with black stripes.|It starts with T and rhymes with "Tigger"!|The tiger|No two tigers have exactly the same stripes.
+animals|Which super-slow animal hangs in rainforest trees?|It's famous for being slow, like Flash in "Zootopia."|It rhymes with "cloth" and starts with S.|The sloth|Sloths climb down from their trees only about once a week to go to the bathroom.
+animals|What do giant pandas mostly eat?|It's a tall green plant.|It starts with B and rhymes with "shampoo."|Bamboo|A giant panda can spend 10 to 16 hours a day eating.
+animals|How many legs does an insect, like an ant, have?|Fewer than a spider's 8.|It's 3 + 3.|6|An insect's body has three parts: head, middle, and back end.
+animals|What sound does a cow make?|It lives on a farm and gives milk.|It rhymes with "zoo."|Moo|Cows can have best friends and feel calmer when they're together.|E
+animals|What sound does a duck make?|It swims in ponds.|It rhymes with "back."|Quack|Ducks have waterproof feathers thanks to a special oil they spread with their beaks.|E
+animals|Which farm animal says "oink"?|It loves to roll in the mud.|It rhymes with "big."|A pig|Pigs roll in mud to stay cool because they can't sweat much.|E
+animals|Which animal says "baa"?|Its fluffy wool is used to make sweaters.|It rhymes with "jeep."|A sheep|A sheep's wool keeps growing, so most sheep get a "haircut" once a year.|E
+animals|Which animal says "neigh"?|You can ride on its back.|It rhymes with "course."|A horse|Horses can sleep standing up.|E
+animals|Which bird says "hoot" at night?|It has big round eyes.|It rhymes with "towel."|An owl|Owls can turn their heads about three-quarters of the way around.|E
+animals|What sound does a snake make?|It sounds like "Ssssss."|It rhymes with "kiss."|Hiss|Snakes smell things by flicking their tongues.|E
+animals|What sound does a dog make?|It's a happy pet that wags its tail.|It rhymes with "roof"... W___!|Woof (a bark)|Every dog's nose print is different, like a fingerprint.|E
+animals|What is a baby cat called?|It's small and fluffy and says "mew."|It rhymes with "mitten."|A kitten|Most kittens are born with blue eyes that can change color as they grow.|E
+animals|What is a baby cow called?|It rhymes with "half."|It starts with C: C-A-L-F.|A calf|A calf can stand up about an hour after it's born.|E
+animals|What is a baby chicken called?|It's small, yellow, and fluffy.|It rhymes with "stick."|A chick|A chick peeps to its mother while it's still inside the egg!|E
+animals|What is a baby duck called?|It's a "duck" with "-ling" at the end.|Duck...ling!|A duckling|Ducklings follow the first moving thing they see, which is usually their mom.|E
+animals|What is a baby frog called?|It swims and has a tail, no legs at first.|It starts with "tad."|A tadpole|Tadpoles breathe underwater with gills, like fish.|E
+animals|What is a baby sheep called?|It rhymes with "ham."|It starts with L: L-A-M-B.|A lamb|A lamb can pick out its mother's voice from the whole flock.|E
+animals|Which animal has a long trunk and big floppy ears?|It's the biggest animal on land.|It starts with E: El-e-...|An elephant|Elephants use their trunks to drink, smell, grab food, and even hug.|E
+animals|Which slow animal carries its shell house on its back and leaves a slimy trail?|It's slower than a turtle!|It rhymes with "mail."|A snail|A snail's slime helps it glide along, even upside down.
+animals|This or that: which is bigger, a mouse or an elephant?|One is tiny, one is giant.|It's the one with a trunk.|An elephant|An African elephant can weigh as much as three or four cars.|E
+animals|Yes or no: can penguins fly in the air?|They're birds, but their wings are like flippers.|They "fly" underwater instead.|No|Penguins use their wings to zoom through the water.|E
+animals|Which black-and-white animal sprays a stinky smell when it's scared?|It has a fluffy tail with a white stripe.|It rhymes with "dunk."|A skunk|A skunk stamps its feet as a warning before it sprays.
+animals|Where do bees live?|It's a busy home full of honey.|It rhymes with "five."|In a hive|A single hive can have tens of thousands of bees.
+animals|What do spiders spin to catch bugs?|It's sticky and made of silk.|It rhymes with "Deb."|A web|Spider silk is super strong for how thin it is.|E
+animals|This or that: which is faster, a cheetah or a turtle?|One is a spotted big cat.|It's not the one with a shell!|A cheetah|The cheetah is the fastest land animal in the world.|E
+animals|Which bird is a symbol of the United States?|It's a big bird with a white head.|It's the bald ... E-A-G-L-E.|The bald eagle|Bald eagles aren't really bald; their heads are covered in white feathers.
+animals|Which animal hops and carries its baby in a pouch?|It lives in Australia.|It starts with K and rhymes with "shampoo."|A kangaroo|Kangaroos can't walk backward easily, but they're amazing jumpers.|E
+science|What do plants need from the sun to grow?|It's what makes the daytime bright.|It's "sun" + "light."|Sunlight|Plants make their own food from sunlight, and they give off the air we breathe.
+science|What is frozen water called?|You put it in drinks to make them cold.|It rhymes with "nice."|Ice|Ice floats because it's lighter than the same amount of liquid water.|E
+science|What pulls things down to the ground when you drop them?|It makes an apple fall from a tree.|It starts with G and rhymes with "cavity."|Gravity|On the Moon, gravity is weaker, so you could jump about six times higher.
+science|What color do you get when you mix blue and yellow paint?|It's the color of grass.|It starts with G and rhymes with "bean."|Green|Light mixes differently than paint: red light plus green light makes yellow!|E
+science|How many colors are in a rainbow?|Red, orange, yellow, green, blue, indigo, violet.|It's the same as the number of days in a week.|7|You can only see a rainbow when the Sun is behind you.
+science|What kinds of things stick to a magnet?|Paper clips and nails stick to it.|They're made of M-E-T-A-L (some kinds, like iron).|Some metal things, like iron and steel|Earth acts like a giant magnet, which is why a compass needle points north.
+science|What do we call water that falls from clouds in drops?|You need an umbrella for it.|It rhymes with "train."|Rain|Falling raindrops are shaped more like hamburger buns than teardrops.|E
+science|What tool do scientists use to make tiny things look big?|It has lenses you look through.|It starts with "micro" and ends with "scope."|A microscope|The first microscopes were invented more than 400 years ago.
+science|What makes the loud BOOM of thunder?|It always comes with a bright flash in a storm.|It's "light" + "ning."|Lightning|A lightning bolt is about five times hotter than the surface of the Sun.
+science|Which is heavier: a pound of feathers or a pound of rocks?|It's a trick question! Listen to the words.|They are both one pound...|Neither! They weigh the same|Feathers just take up a lot more space, which is why they seem lighter.
+science|What falls from clouds as white, frozen flakes?|You can build a man out of it.|It rhymes with "go."|Snow|Most snowflakes have six sides or six arms.|E
+science|What tool tells you how hot or cold it is?|The doctor uses one to check for a fever.|It starts with "thermo" and ends with "meter."|A thermometer|Water freezes at 32 degrees Fahrenheit.
+science|What do you see in the sky when the sun shines right after rain?|It's colorful and shaped like an arch.|It's "rain" + "bow."|A rainbow|A rainbow is really a full circle, but the ground usually hides the bottom half.|E
+science|What are clouds made of?|They float in the sky and bring rain.|Tiny drops of W___.|Tiny drops of water (and ice)|A big fluffy cloud can weigh as much as 100 elephants!
+science|In which season do leaves fall off many trees?|It comes after summer.|It has the same name as what the leaves do: they F___.|Fall (autumn)|Leaves change color in fall because they stop making their green color.|E
+science|Which season is the hottest?|School is out and you go to the beach.|It rhymes with "drummer."|Summer|The first day of summer is the longest day of the year.|E
+science|Which season comes right after winter?|Flowers start to bloom.|It's also something bouncy, like on a trampoline!|Spring|Many baby animals are born in spring when food is easier to find.|E
+science|What do you call little balls of ice that fall in a storm?|It's not snow and it's not rain.|It rhymes with "mail."|Hail|Most hailstones are the size of peas, but some can be as big as baseballs.
+science|What do you call a cloud that's down low, touching the ground?|It makes it hard to see far.|It rhymes with "dog."|Fog|San Francisco's famous fog even has a nickname: Karl!
+science|This or that: which is colder, a snowball or a cup of hot cocoa?|One is made of snow.|It's the one you can throw in a snowball fight!|A snowball|The biggest snowball fight ever had more than 7,000 people!|E
+science|What gas makes balloons float up into the sky?|It's lighter than air.|It starts with H: Hel-...|Helium|Helium makes your voice sound squeaky because sound travels faster through it.
+space|What planet do we live on?|It's the third planet from the Sun.|It starts with E and rhymes with "birth."|Earth|About 71% of Earth is covered by water.|E
+space|What is the closest star to Earth?|You can see it in the daytime.|It makes the day sunny: the S-U-N!|The Sun|Sunlight takes about 8 minutes to travel from the Sun to Earth.|E
+space|Which planet is called the Red Planet?|It's right next to Earth.|It starts with M and rhymes with "stars."|Mars|Mars looks red because its dirt has rusty iron in it.
+space|What is the biggest planet in our solar system?|It's a giant gas planet with a big red spot.|It starts with J: Ju-pi-...|Jupiter|More than 1,300 Earths could fit inside Jupiter.
+space|Which planet has big, beautiful rings around it?|It's the sixth planet from the Sun.|It starts with S: Sat-urn.|Saturn|Saturn is so light for its size that it would float in a (giant!) bathtub.
+space|How many planets are in our solar system?|Pluto doesn't count anymore.|It's the same as a spider's legs.|8|Pluto is now called a "dwarf planet."
+space|Who was the first person to walk on the Moon?|He was an American astronaut in 1969.|His first name is Neil, and his last name sounds like "arm strong."|Neil Armstrong|His footprints are probably still there, because there's no wind on the Moon.
+space|What do we call a person who travels into space?|They wear a spacesuit and ride a rocket.|It starts with "astro" and ends with "naut."|An astronaut|Astronauts float in space because they're falling around Earth.
+space|What is the name of our galaxy?|It sounds like a candy bar.|The Milky ___ (it rhymes with "day").|The Milky Way|Our galaxy has more than 100 billion stars.
+space|What shape is the Earth?|Think of a ball.|It's round like a B-A-L-L.|Round, like a ball (a sphere)|Earth is a little wider around the middle than from top to bottom.|E
+space|How many hours are in one day?|It's how long Earth takes to spin around once.|It's 2 dozen: 12 + 12.|24|At the middle of the Earth, the ground spins at about 1,000 miles per hour, but we don't feel it.
+space|About how many days are in one year?|It's more than 300.|Three hundred sixty-...|365|Every four years we add an extra day, February 29; that's a leap year.
+space|Where does the Moon get its light?|The Moon doesn't make its own light.|It bounces light from the S-U-N.|From the Sun|The same side of the Moon always faces Earth.
+space|What do astronauts wear to stay safe outside their spaceship?|It has a helmet and big gloves.|It's a "space" + "suit."|A spacesuit|A NASA spacewalk suit weighs about 280 pounds on Earth, but it floats in orbit.|E
+space|This or that: which is bigger, the Sun or the Moon?|One is a giant star.|It's the one that's hot and bright in the daytime.|The Sun|The Sun is about 400 times wider than the Moon; it only looks the same size because it's much farther away.|E
+space|What do you call the big machine that blasts astronauts into space?|It goes "3, 2, 1, blast off!"|It rhymes with "pocket."|A rocket|Rockets need to go about 17,500 miles per hour to stay in orbit around Earth.|E
+space|What do we call the Moon when it looks like a full, round circle?|It's the opposite of an empty moon.|It rhymes with "pull": a F___ moon.|A full moon|There's a full moon about once a month.|E
+geography|What is the biggest ocean on Earth?|It's right next to California.|It starts with P: Pa-ci-...|The Pacific Ocean|The Pacific Ocean is bigger than all the land on Earth put together.
+geography|How many continents are there?|North America is one of them.|It's the same as the days in a week.|7|Asia is the biggest continent, and Australia is the smallest.
+geography|Which continent do we live on?|It includes the USA, Canada, and Mexico.|North ... A-M-E-R-I-C-A.|North America|North America has the biggest freshwater lake in the world by area: Lake Superior.
+geography|Which continent is the coldest and home to lots of penguins?|The South Pole is there.|It starts with "Ant," like the bug!|Antarctica|Antarctica is also the windiest and driest continent.
+geography|Which country is right above the United States on a map?|It has a red maple leaf on its flag.|It starts with C: Can-a-...|Canada|Canada has the longest coastline of any country in the world.
+geography|Which country is right below the United States on a map?|Tacos and piñatas come from there.|It starts with M: Mex-i-...|Mexico|Mexico City was built on top of an old lake.
+geography|Which country is famous for its giant pyramids?|It's in Africa, and pharaohs ruled there.|It starts with E: E-G-Y-P-T.|Egypt|The Great Pyramid was the tallest building on Earth for more than 3,800 years.
+geography|What do we call land with water all around it?|Hawaii is made of them.|It starts with I: is-land.|An island|Greenland is the biggest island in the world.
+geography|In which country do kangaroos and koalas live in the wild?|It's also a continent.|It starts with "Aus" and ends with "tralia."|Australia|Australia is the only country that's also a whole continent.
+geography|Which U.S. state is made up entirely of islands?|People say "Aloha" there.|It starts with H: Ha-wai-...|Hawaii|Hawaii has active volcanoes that are still making new land.
+geography|Is the ocean water salty or sweet?|Don't drink it!|It's the same as on french fries: S-A-L-T-Y.|Salty|If all the ocean's salt were spread on land, it would make a layer taller than a 40-story building.
+geography|What is a really tall hill with a pointy or rocky top called?|People climb it and ski on it.|It starts with M: moun-...|A mountain|Some mountains are so tall that they have snow on top all year.|E
+geography|What do we call a big, flowing body of water that goes to the sea?|The Los Angeles one goes through the Valley.|It rhymes with "shiver."|A river|The Los Angeles River starts in the San Fernando Valley, in Canoga Park.
+geography|What do we call a hot, dry, sandy place with very little rain?|Cactuses live there.|It sounds like "dessert" but with one S: D-E-S-E-R-T.|A desert|Some desert animals almost never drink; they get water from their food.
+geography|What is a map of the whole Earth shaped like a ball called?|You can spin it.|It rhymes with "robe."|A globe|A globe is the most accurate kind of map because Earth is round too.
+math|What is 7 + 8?|It's one more than 7 + 7, which is 14.|It's one more than 14.|15|15 minutes is exactly a quarter of an hour.
+math|What is 20 − 7?|Count back from 20.|It's a baker's dozen: one more than 12.|13|A "baker's dozen" is 13, not 12!
+math|How many sides does a hexagon have?|It's the shape of honeycomb cells.|"Hex" sounds like "six"!|6|Bees build hexagons because they fit together perfectly with no gaps.
+math|How many minutes are in one hour?|A clock's big hand goes all the way around once.|It's 6 tens: 10, 20, 30, 40, 50, ...|60|We count time in 60s because the ancient Babylonians counted in groups of 60.
+math|You have 2 bags with 3 apples in each. How many apples is that?|Count 3, then count 3 more.|3 + 3.|6|Apples float in water because they're about one-quarter air.
+math|What is 9 + 9 + 2?|9 + 9 is 18.|18 + 2.|20|If you count all your fingers and toes, you get exactly 20!
+math|How many days are in a week?|Monday, Tuesday, Wednesday...|It's the same as the colors in a rainbow.|7|Thursday is named after Thor, the old Norse god of thunder.
+math|How many legs do 2 dogs have altogether?|Each dog has 4 legs.|4 + 4.|8|Dogs actually walk on their toes!
+math|What is double 6?|Double means add it to itself: 6 + 6.|It's a dozen.|12|Twelve of something is called a dozen, like a carton of eggs.
+math|What number comes next: 2, 4, 6, 8, ...?|Count by twos.|It's one more than 9.|10|Numbers you land on when counting by twos are called even numbers.|E
+math|How many sides does a triangle have?|"Tri" means three, like a tricycle.|It's the same as the wheels on a tricycle.|3|Triangles are super strong, which is why they're used to build bridges.|E
+math|A pizza has 8 slices and you eat 3. How many are left?|8 take away 3.|Count back: 7, 6, ...|5|Pizza as we know it was invented in Naples, Italy.
+math|How many cents are in one dollar?|It takes 4 quarters to make it.|It's a 1 with two zeros.|100|The word "cent" comes from the Latin word for 100.
+math|What is 12 − 5?|12 take away 2 is 10.|Then take away 3 more from 10.|7|Seven is the most popular "favorite number" in surveys around the world.
+math|How many wheels do 4 bicycles have?|Each bike has 2 wheels.|2 + 2 + 2 + 2.|8|One of the first bicycles, made in 1817, had no pedals; riders pushed with their feet!
+math|What is 2 + 3?|Hold up 2 fingers, then 3 more.|It's all the fingers on one hand.|5|You have 5 fingers on each hand, counting your thumb.|E
+math|What is 4 + 4?|It's the same as a spider's legs.|It rhymes with "gate."|8|The number 8 turned on its side looks like the symbol for infinity: ∞.|E
+math|What is 5 + 5?|Hold up all the fingers on both hands.|It's 1 more than 9.|10|We probably count in tens because we have ten fingers.|E
+math|What is 10 + 10?|Count all your fingers and all your toes.|It's 2 tens: twen-...|20|A "score" is an old word for 20.
+math|What is 3 + 3?|It's the number of legs on an insect.|It rhymes with "sticks."|6|A die (one of a pair of dice) has 6 sides.|E
+math|What is 8 + 2?|Count up 2 from 8: 9, ...|It's one more than 9.|10|"Ten-four" is a way of saying "OK" on walkie-talkies.|E
+math|What is 10 − 4?|Hold up 10 fingers and put 4 down.|It's the same as 3 + 3.|6|Subtracting is just counting backward.|E
+math|What is 15 − 5?|Take away the 5 from fifteen.|It's the number of fingers on two hands.|10|Ten years is called a decade.
+math|What number comes right after 19?|Count: 17, 18, 19, ...|It's twen-...|20|Twenty is the number of fingers and toes most people have.|E
+math|What comes next: 5, 10, 15, ...?|Count by fives, like nickels.|It's two tens.|20|Counting by fives is how you count nickels: 4 nickels make 20 cents.
+math|You have 3 cookies and eat 1. How many are left?|3 take away 1.|It's the number of eyes you have.|2|The chocolate chip cookie was invented in the 1930s at the Toll House Inn in Massachusetts.|E
+math|How many legs does a chicken have?|It's a bird.|The same as you!|2|Chickens are related to the T. rex!|E
+math|How many wheels does a tricycle have?|"Tri" means three.|It's one more than a bicycle.|3|Many kids learn to ride on a tricycle before a bicycle.|E
+math|How many months are in a year?|January, February, March...|It's a dozen.|12|February is the shortest month.
+math|This or that: which number is bigger, 9 or 6?|Count up: 6, 7, 8, ...|It's the one right before 10.|9|Turn a 6 upside down and it looks like a 9!|E
+math|How many legs do a cat and a bird have all together?|A cat has 4 legs, a bird has 2.|4 + 2.|6|Cats always land on their feet because they twist in the air (most of the time!).
+math|What shape has 4 sides that are all the same length?|A checkerboard is full of them.|It rhymes with "chair": S-Q-U-A-R-E.|A square|A square is a special kind of rectangle.|E
+math|What shape is a pizza, usually?|Think of a wheel.|It starts with C: cir-...|A circle|Pizza boxes are square, but most pizzas are round!|E
+math|What shape is one slice of pizza?|It has three sides.|It starts with "tri."|A triangle|Triangle pizza slices are the most common way to cut a round pizza.|E
+math|What shape is an egg?|It's like a stretched-out circle.|It starts with O: o-v-a-...|An oval|The word "oval" comes from the Latin word for egg.|E
+math|What shape do we draw for stars, with 5 points?|It twinkles in drawings.|It rhymes with "car."|A star|Real stars are giant balls of hot gas, not pointy at all!|E
+math|How many corners does a square have?|Count the pointy parts.|It's the same as the legs on a dog.|4|A cube has 8 corners.|E
+history|Who was the first President of the United States?|His face is on the one-dollar bill.|His first name is George: George Wash-...|George Washington|George Washington is the only president who never lived in the White House.
+history|What holiday celebrates America's birthday?|There are fireworks in July!|It's the Fourth of J-U-L-Y.|Independence Day (the Fourth of July)|America's birthday is July 4, 1776.
+history|Which leader gave the famous "I Have a Dream" speech?|We have a holiday for him in January.|Martin Luther ... K-I-N-G.|Martin Luther King Jr.|More than 250,000 people came to hear the speech in Washington, D.C.
+history|How many stars are on the U.S. flag?|There's one star for each state.|It's 5 tens: fif-...|50|Today's flag was designed by a high school student named Robert Heft for a school project.
+history|Which president had a tall hat and is on the penny?|His nickname is "Honest Abe."|Abraham L-I-N-C-O-L-N.|Abraham Lincoln|At 6 feet 4 inches, Lincoln was the tallest U.S. president.
+history|Before cars, what animal did people ride to get around?|It goes "neigh"!|It rhymes with "course."|Horses|The first cars were nicknamed "horseless carriages."
+history|What are the colors of the American flag?|There are three colors.|Red, white, and B___.|Red, white, and blue|The 13 stripes stand for the first 13 colonies.|E
+words|How many letters are in the alphabet?|A, B, C... all the way to Z.|It's 2 more than 24.|26|The letter used most in English is E.
+words|What is the word for more than one mouse?|It's not "mouses"!|It rhymes with "ice."|Mice|More than one goose is geese, but more than one moose is still moose!
+words|What word do you get if you spell "pots" backward?|Read it starting from the S: S-T-O-...|It's what a red sign tells drivers to do.|Stop|"Pots," "stop," "tops," and "spot" all use the same four letters.
+words|What are the five vowels?|A is the first one.|A, E, I, O, and ... (it sounds like "you").|A, E, I, O, U (and sometimes Y)|Every word in English has at least one vowel sound.
+words|What do we call the person who writes a book?|Their name is on the cover.|It starts with AU: au-thor.|The author|The person who draws the pictures is called the illustrator.
+words|Finish the saying: "The early bird catches the ___."|It's something birds love to eat.|It's long and wiggly, and rhymes with "germ."|Worm|It means people who start early often get the best chance.
+words|Which one is a thing you can pet: run, blue, or dog?|It wags its tail.|It says "woof."|Dog|Words for people, places, and things are called nouns.
+words|What does "enormous" mean?|An elephant is enormous.|It means the opposite of tiny.|Very big (huge)|Other words for enormous are gigantic and massive.
+words|What sound do the letters "ph" make, like in "phone"?|It's the same as one other letter.|Fffff... it sounds like F!|An "f" sound|"Elephant" and "dolphin" also have a "ph" that sounds like "f."
+words|Which word has more letters: "elephant" or "alligator"?|Count them out!|Elephant has 8 letters; the other one has one more.|Alligator (9 letters)|The ancestors of alligators lived alongside the dinosaurs.
+words|What is the opposite of "whisper"?|It's very LOUD.|It starts with "sh" and rhymes with "out."|Shout (or yell)|How loud a sound is gets measured in decibels.
+words|What word rhymes with "cat" and goes on your head?|It keeps the sun off your face.|It starts with H: H-A-T.|Hat|Rhyming words share the same ending sound, like cat, hat, bat, and mat.|E
+words|What is the opposite of "hot"?|Think of ice.|It rhymes with "old."|Cold|Hot sauce gets its heat from peppers, not temperature!|E
+words|What is the opposite of "up"?|Which way does a ball fall?|It rhymes with "town."|Down|An elevator goes up and down.|E
+words|What is the opposite of "big"?|A mouse is...|It rhymes with "ball": S-M-A-L-L.|Small (or little)|A baby blue whale is still bigger than an elephant!|E
+words|What is the opposite of "day"?|When the stars come out.|It rhymes with "light."|Night|Owls and bats are awake at night.|E
+words|What is the opposite of "happy"?|How you feel when you cry.|It rhymes with "dad."|Sad|Smiling can actually help you feel a little happier.|E
+words|What is the opposite of "fast"?|A snail is...|It rhymes with "go."|Slow|At the World Snail Racing Championship, the record is 13 inches in about 2 minutes!|E
+words|What is the opposite of "open"?|What you do to a door to keep the cold out.|It starts with CL: cl-o-...|Closed (or shut)|A "closed" sign on a store means you have to come back later.|E
+words|What is the opposite of "full"?|A glass with nothing in it.|It starts with E: emp-...|Empty|Your stomach growls when it's empty because it's squeezing air and juices.|E
+words|What is the opposite of "wet"?|What a towel makes you.|It rhymes with "cry."|Dry|A towel dries you by soaking water into tiny loops of thread.|E
+words|What is the opposite of "in"?|The opposite of inside.|It rhymes with "shout."|Out|"Inside out" means flipped so the inside is on the outside, like a sock!|E
+words|Which word rhymes with "dog": log or cat?|Say them out loud: dog... log... cat...|Dog and L-O-G sound alike at the end.|Log|Lots of nursery rhymes use rhyming words so they're easy to remember.|E
+words|What letter does "apple" start with?|It's the first letter of the alphabet.|A-a-apple!|A|"A" is also a whole word all by itself.|E
+words|What is the word for more than one tooth?|It's not "tooths"!|It starts with T: T-E-E-T-H.|Teeth|More than one foot is feet, too!
+body|What part of your body pumps blood all around?|It beats in your chest: thump-thump!|It's the shape on Valentine's cards: a H-E-A-R-T.|Your heart|Your heart beats about 100,000 times every day.|E
+body|What part of your body do you think with?|It's inside your head.|It starts with B and rhymes with "rain."|Your brain|Your brain uses about 20% of your body's energy.|E
+body|What do your lungs help you do?|You do it all day without thinking: in and out.|It starts with BR: br-e-a-...|Breathe|Your left lung is a little smaller to make room for your heart.
+body|What part of your face do you smell with?|It's in the middle of your face.|It rhymes with "rose."|Your nose|Your nose helps you taste food, which is why food tastes weird when you have a cold.|E
+body|What color is your blood?|It's the same color as a stop sign.|It rhymes with "bed."|Red|Blood is always red, even though veins look bluish through your skin.|E
+body|What do we call the curved bones that protect your heart and lungs?|They curve around your chest like a cage.|They rhyme with "bibs"... barbecue R___!|Your ribs|Most people have 12 pairs of ribs.
+body|What pink, wiggly part of your mouth helps you taste and talk?|You stick it out at the doctor.|It starts with T: ton-...|Your tongue|Your tongue has thousands of taste buds.|E
+body|How many senses do people usually say we have?|Seeing, hearing, smelling, tasting, touching.|Count on one hand!|5|Scientists say we have even more senses, like balance.
+body|What does your stomach do?|It works right after you eat.|It mashes up your F-O-O-D.|Breaks down (digests) your food|Your stomach makes a new lining every few days so it doesn't digest itself.
+body|Where is the biggest muscle in your body?|You use it to climb stairs.|You're sitting on it right now!|Your bottom (the gluteus maximus)|The gluteus maximus helps keep your body standing up straight.
+body|What do you see with?|You have two of them on your face.|It rhymes with "pies."|Your eyes|You blink about 15 to 20 times every minute.|E
+body|What do you hear with?|You have one on each side of your head.|It rhymes with "years."|Your ears|Your ears keep growing a tiny bit your whole life.|E
+body|What do you use to chew your food?|They're white and in your mouth.|It rhymes with "beneath": T-E-E-T-H.|Your teeth|Kids have 20 baby teeth.|E
+body|This or that: is your elbow on your arm or your leg?|It's where you bend in the middle of your...|It's the one you use to throw a ball.|Your arm|Your elbow bends only one way, like a door hinge.|E
+body|How many toes are on both of your feet together?|5 on one foot, 5 on the other.|5 + 5.|10|Your big toe helps you balance when you walk.|E
+body|What grows on your head and gets cut at the barber?|It can be long or short, curly or straight.|It rhymes with "chair."|Your hair|Hair grows about half an inch every month.|E
+body|What do you call the bendy middle of your leg?|You get a scrape there when you fall.|It rhymes with "tree."|Your knee|Babies' kneecaps are soft and slowly turn into bone.|E
+general|What color do you get when you mix red and white?|Flamingos are this color.|It rhymes with "think"... P-I-N-K.|Pink|Flamingos are pink because of the shrimp and algae they eat.|E
+general|Which sport uses a bat, a ball, and four bases?|The Dodgers play it!|It's "base" + "ball."|Baseball|A baseball has exactly 108 double stitches.|E
+general|What are the colorful toy bricks that snap together called?|You build things with them.|It starts with L: L-E-G-...|LEGO|"LEGO" comes from Danish words that mean "play well."|E
+general|In which game do you say "checkmate"?|It has kings, queens, and knights.|It starts with CH and rhymes with "dress."|Chess|The knight is the only chess piece that can jump over other pieces.
+general|What is the most popular sport in the world?|You mostly kick the ball with your feet.|It starts with S and rhymes with "rocker."|Soccer|The World Cup is watched by billions of people.|E
+general|Finish the saying: "An ___ a day keeps the doctor away."|It's a red or green fruit.|It starts with A and rhymes with "chapel."|Apple|Apples float in water because they're about one-quarter air.|E
+general|What yellow fruit do monkeys love?|You peel it, and it's long and curved.|It starts with B: ba-na-...|A banana|Bananas start out green and turn yellow as they ripen.|E
+general|What green fruit is used to make guacamole?|It has a big pit in the middle.|It starts with "avo": a-vo-ca-...|An avocado|California grows most of the avocados in the United States.
+general|How many sides does a stop sign have?|It's an octagon, like an octopus has 8 arms.|Octo- means 8!|8|U.S. stop signs used to be yellow; they've been red since 1954.
+general|What is the puzzle where words go across and down in little boxes?|It's in newspapers.|"Cross" + "word."|A crossword|The first crossword puzzle was printed in a newspaper in 1913.
+general|Which musical instrument has black and white keys?|You play it with your fingers while sitting on a bench.|It starts with P: pi-an-...|A piano|A piano has 88 keys: 52 white and 36 black.|E
+general|What do you call a dome-shaped house made of snow blocks?|It's built in very cold places.|It starts with I: ig-...|An igloo|Snow traps heat, so inside an igloo can be much warmer than outside.
+general|What color are school buses?|It's bright, like a banana.|It rhymes with "mellow."|Yellow|School buses are yellow because it's easy to see, even early in the morning.|E
+general|In "Frozen," what's the name of the funny snowman?|He loves warm hugs!|It starts with O: O-L-A-...|Olaf|Olaf was created by Elsa's magic.|E
+general|In "Toy Story," what is the cowboy's name?|His best friend is Buzz Lightyear.|It rhymes with "goody": W-O-O-D-Y.|Woody|Buzz Lightyear's famous line is "To infinity and beyond!"|E
+general|In "Finding Nemo," what kind of fish is Nemo?|He's orange and white.|He's a C-L-O-W-N fish.|A clownfish|Real clownfish live in sea anemones, whose stings don't hurt them.
+general|What color is SpongeBob SquarePants?|He's a sponge who lives under the sea.|It's the same color as a banana.|Yellow|SpongeBob lives in a pineapple under the sea.|E
+general|In "The Lion King," what is the young lion's name?|His dad is Mufasa.|It starts with S and rhymes with "Zimba."|Simba|"Simba" means "lion" in Swahili.|E
+general|What is the name of Mickey Mouse's pet dog?|He has the same name as a dwarf planet.|It starts with P and rhymes with "Bluto."|Pluto|Pluto the pup got his name around the time the planet Pluto was discovered in 1930.
+general|What is the name of the yellow electric Pokémon that's Ash's best friend?|It says its own name!|Pika-...|Pikachu|Pikachu is an Electric-type Pokémon.|E
+general|In "Moana," who is the shape-shifting demigod with a magic fishhook?|He sings "You're Welcome."|It starts with M: M-A-U-...|Maui|Maui is voiced by Dwayne "The Rock" Johnson.
+general|In "Frozen," what is the name of Elsa's sister?|She has red braids.|It starts with A and has only 4 letters.|Anna|The song "Let It Go" from "Frozen" won an Oscar.|E
+general|Which Nintendo hero wears a red cap and a mustache?|His brother Luigi wears green.|It starts with M and rhymes with "Dario."|Mario|Mario first appeared in a video game in 1981.|E
+general|In "Zootopia," what kind of animal is Officer Judy Hopps?|She has long ears and hops.|It's a bun-ny (a R-A-B-B-I-T).|A bunny (rabbit)|Her partner, Nick Wilde, is a fox.|E
+general|In "Despicable Me," what are Gru's little yellow helpers called?|They wear goggles and overalls and love bananas.|It starts with M: Min-...|The Minions|The Minions speak their own silly made-up language.|E
+general|What does Winnie the Pooh love to eat?|Bees make it.|It starts with H and rhymes with "funny."|Honey|Pooh lives in the Hundred Acre Wood.|E
+general|In "Inside Out," which emotion is blue?|She makes Riley cry.|It's the opposite of happy: S-A-D-...|Sadness|The other emotions are Joy, Anger, Fear, and Disgust (plus new ones in "Inside Out 2").|E
+general|What kind of animal is Bluey?|She's from Australia and loves to play.|She's a blue D-O-G (a Blue Heeler).|A dog (a Blue Heeler puppy)|Blue Heelers are also called Australian cattle dogs.|E
+general|In which sport do you shoot a ball through a hoop?|The Lakers play it.|"Basket" + "ball."|Basketball|Basketball was invented in 1891 using peach baskets as hoops.|E
+general|What is it called when a batter hits the ball out of the park?|The batter gets to run all the way around the bases.|It's a H-O-M-E run.|A home run|Shohei Ohtani of the Dodgers is famous for hitting home runs and pitching.|E
+general|In soccer, which player is allowed to use their hands?|They stand in front of the net.|It rhymes with "snowy": goal-...|The goalie (goalkeeper)|The goalie can only use their hands inside the big box near their own goal.|E
+general|What do players hit with sticks in ice hockey?|It's flat, round, and black.|It rhymes with "duck."|A puck|Hockey pucks are frozen before games so they don't bounce as much.
+general|What should you wear on your head when you ride a bike?|It keeps your head safe.|It starts with H: hel-...|A helmet|Helmets have a soft foam lining that squishes to protect your head.|E
+general|What do you use to hit the ball in tennis?|It has strings.|It rhymes with "jacket": R-A-C-K-E-T.|A racket|Tennis balls are fuzzy so they fly and bounce more evenly.|E
+general|What do you use to cut paper?|Be careful: they're sharp!|It starts with S: scis-...|Scissors|There are special scissors for left-handed people.|E
+general|What do you use to brush your teeth?|You put toothpaste on it.|"Tooth" + "brush."|A toothbrush|Dentists say to brush twice a day for two minutes.|E
+general|What do you use to see in the dark?|It runs on batteries and you click it on.|"Flash" + "light."|A flashlight|Some animals, like cats, can see much better in the dark than we can.|E
+general|What do you use to dig in the sand at the beach?|It has a handle and a scoop.|It starts with SH: shov-...|A shovel (or a pail and shovel)|The tallest sandcastle ever built was taller than a five-story building.
+general|What do you use to sweep the floor?|It has long bristles.|It rhymes with "room."|A broom|In stories, witches ride brooms, but in real life they're just for sweeping!|E
+general|What do you use to measure how long something is?|It has lines and numbers on it.|It rhymes with "cooler."|A ruler|A school ruler is usually 12 inches long, which is one foot.|E
+general|What do you use to tell what time it is?|It has hands or numbers and goes tick-tock.|It rhymes with "sock."|A clock (or a watch)|The big hand points to the minutes and the little hand points to the hours.|E
+general|On which holiday do kids dress up and go trick-or-treating?|It's at the end of October.|It starts with H: Hal-lo-...|Halloween|Jack-o'-lanterns were first carved from turnips, not pumpkins!
+general|On which holiday do families eat turkey and say what they're thankful for?|It's in November.|It has "thank" in its name!|Thanksgiving|Thanksgiving is on the fourth Thursday of November.|E
+general|On which holiday do people give cards with hearts in February?|It's on February 14.|Valen-...|Valentine's Day|People send more than 100 million Valentine's cards every year in the U.S.
+general|What holiday is on January 1?|It's the first day of the year.|"New ___'s Day" (it rhymes with "cheer").|New Year's Day|People count down "10, 9, 8..." to midnight on New Year's Eve.|E
+general|What do you put candles on for your birthday?|You blow them out and make a wish.|It rhymes with "lake."|A cake|"Happy Birthday to You" is one of the best-known songs in the world.|E
+general|What fruit do people carve into jack-o'-lanterns?|It's big and orange.|It starts with P: pump-...|A pumpkin|Pumpkins are fruits because they have seeds inside.|E
+general|What red fruit has tiny seeds on the outside?|It's often dipped in chocolate.|"Straw" + "berry."|A strawberry|A strawberry has about 200 seeds on the outside.|E
+general|What do you pop in a pan or microwave to make popcorn?|It's yellow, from a plant.|It's in the name: pop-C-O-R-N.|Corn kernels|Popcorn pops because the water inside each kernel turns to steam.|E
+general|What yellow sauce do people put on hot dogs?|It's yellow and a little spicy.|It rhymes with "custard."|Mustard|Mustard is made from the seeds of the mustard plant.|E
+general|This or that: which one is a vegetable, a carrot or an apple?|It's orange and bunnies love it.|It's not the red fruit!|A carrot|Long ago, most carrots were purple or yellow, not orange.|E
+general|What do cows give us that we drink?|It's white and goes on cereal.|It rhymes with "silk."|Milk|A dairy cow can make about 6 to 8 gallons of milk a day.|E
+general|What red sauce made from tomatoes do people put on fries?|It comes in a squeeze bottle.|It starts with K: ketch-...|Ketchup|Tomatoes are fruits, so ketchup is kind of a fruit sauce!|E
+general|What frozen treat comes in a cone?|It's cold and sweet and can melt.|"Ice" + "cream."|Ice cream|Vanilla is one of the most popular ice cream flavors in the U.S.|E
+general|This or that: which do you wear on your hands, gloves or socks?|They keep your fingers warm.|It's not the ones on your feet!|Gloves|Mittens keep hands warmer than gloves because your fingers share heat.|E
+general|This or that: which is heavier, a car or a bicycle?|One has an engine.|It's the one with four wheels.|A car|A car can weigh as much as 100 bicycles.|E
+general|This or that: which lives in water, a fish or a horse?|It has fins and gills.|It's the one that swims!|A fish|Some fish, like the mudskipper, can even hop on land.|E
+general|This or that: which is faster, an airplane or a car?|One flies in the sky.|It's the one with wings.|An airplane|A big passenger jet flies about 550 miles per hour.|E
+general|What do you wear on your feet to splash in puddles?|They're waterproof and tall.|"Rain" + "boots."|Rain boots|In England, rain boots are often called "wellies."|E
+general|What do you use an umbrella for?|You open it when it's cloudy and wet.|It keeps the R-A-I-N off you.|To stay dry in the rain (or for shade)|The word "umbrella" comes from a Latin word meaning "shade."|E
+california|What famous sign with big white letters sits on a hill in Los Angeles?|It's the name of the movie-making neighborhood.|It's the HOLLY-W-O-O-D sign.|The Hollywood sign|It used to say "HOLLYWOODLAND"; the last four letters were taken off in 1949.
+california|What animal is on the California state flag?|It's big, brown, and furry.|It's a B-E-A-R (a grizzly bear).|A grizzly bear|Grizzly bears don't live wild in California anymore, but the flag honors them.
+california|What is the name of LA's baseball team in blue?|Shohei Ohtani plays for them.|It starts with D and rhymes with "codgers."|The Los Angeles Dodgers|The Dodgers moved to Los Angeles from Brooklyn, New York, in 1958.
+california|What famous orange-red bridge is in San Francisco?|It's named after a shiny metal color.|The G-O-L-D-E-N Gate Bridge.|The Golden Gate Bridge|The bridge's color is officially called "International Orange."
+california|What is California's nickname: the ___ State?|Think of a shiny yellow metal, like treasure.|It's G-O-L-D-E-N.|The Golden State|People rushed to California looking for gold starting in 1848.
+california|What valley do we live in, in Northridge?|It's named after a saint, San Fer-...|San Fer-nan-do.|The San Fernando Valley|People in LA often just call it "the Valley."
+california|Which super-tall trees with reddish bark grow in California?|They're the tallest trees in the world.|Their name has a color in it: R-E-D-woods.|Redwoods|The tallest redwood, named Hyperion, is more than 380 feet tall!
+california|What is the name of the pier with a Ferris wheel in Santa Monica?|It's named after the city it's in.|The Santa M-O-N-I-C-A Pier.|The Santa Monica Pier|The famous Route 66 ends near the Santa Monica Pier.
+california|What orange flower is California's state flower?|It's bright orange and grows on hillsides.|It rhymes with "sloppy": the California P-O-P-P-Y.|The California poppy|Poppies close their petals at night and on cloudy days.
+california|Which theme park in Anaheim is home to Mickey Mouse?|It's called the "Happiest Place on Earth."|"Disney" + "land."|Disneyland|Disneyland opened in 1955.|E
+california|What is the name of LA's purple-and-gold basketball team?|LeBron James played for them.|It starts with L and rhymes with "bakers."|The Los Angeles Lakers|The team is called the "Lakers" because it started in Minnesota, the "Land of 10,000 Lakes."
+california|What famous building on a hill in Griffith Park lets you look at stars?|It has big telescopes and domes.|It's Griffith Ob-ser-va-...|Griffith Observatory|Anyone can look through Griffith Observatory's public telescopes for free.
+california|What sticky, bubbly place in LA has Ice Age fossils?|Mammoths and saber-toothed cats got stuck there.|The La Brea T-A-R Pits.|The La Brea Tar Pits|"La brea" means "the tar" in Spanish, so the name means "the tar tar pits"!
+california|What famous Hollywood sidewalk has stars with names on it?|Movie stars get their own star there.|The Hollywood Walk of F-A-M-E.|The Hollywood Walk of Fame|There are more than 2,700 stars on the Walk of Fame.
+california|What big university is right here in Northridge?|Its nickname is four letters: C-S-U-N.|Cal State North-...|Cal State Northridge (CSUN)|The CSUN sports teams are called the Matadors.
+california|What do people ride on waves at California beaches?|You stand on it and ride the waves.|"Surf" + "board."|A surfboard|Surfing became California's official state sport in 2018.|E
+california|What is LA's hockey team called?|Their name means royalty, like a crown.|It rhymes with "rings": the K-I-N-G-S.|The Los Angeles Kings|The Kings have played in Los Angeles since 1967.
+california|What juicy fruit once grew in huge groves all over Orange County?|It's round and juicy and you peel it.|It's the same as the color!|Oranges|Orange County was once covered in orange groves, and its name is said to come from the fruit.|E
+california|At which theme park in LA can you visit the Wizarding World of Harry Potter?|It's a movie studio park near Hollywood.|U-ni-ver-sal Studios.|Universal Studios Hollywood|Universal Studios has been giving studio tours for more than 50 years.

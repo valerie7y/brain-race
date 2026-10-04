@@ -6,8 +6,10 @@ for lvl,fn in (("8","q8.txt"),("12","q12.txt"),("adult","qadult.txt")):
     for n,line in enumerate(open(src+fn,encoding='utf-8'),1):
         line=line.rstrip('\n')
         if not line.strip(): continue
-        parts=line.split('|'); assert len(parts)==6,(fn,n,len(parts))
+        parts=line.split('|'); assert len(parts) in (6,7),(fn,n,len(parts))
         parts=[p.strip() for p in parts]; assert all(parts),(fn,n)
+        if len(parts)==7:
+            assert parts[6]=='E',(fn,n); parts[6]=1
         rows.append(parts)
     QB[lvl]=rows
 svg=open(src+'icon.svg').read().strip()

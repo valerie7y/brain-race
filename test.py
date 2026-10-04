@@ -85,6 +85,30 @@ with sync_playwright() as p:
     pg.click("#winNew"); pg.wait_for_timeout(300)
     ok([x["score"] for x in st()["players"]]==[0,0,0] and "Anthony" in pg.inner_text("#turnTitle"), "new game resets scores, Anthony first")
     ok(len(st()["used"]["8"])>0, "question history kept across new game")
+    # Easier level: Anthony set to "easy" only gets flagged-easy age-8 questions
+    pg.click("#btnSettings"); pg.wait_for_selector("#sheet .prow")
+    pg.select_option("[data-level='p1']", "easy"); pg.click("#closeSet"); pg.wait_for_timeout(200)
+    ok(st()["players"][0]["level"]=="easy", "Anthony level set to Easier")
+    ok("Easier" in pg.inner_text("#card .chip.lv"), "Easier chip shown")
+    alleasy=True
+    for i in range(15):
+        qid=st()["cur"]["qid"]; L,ix=qid.split(":")
+        if L!="8" or pg.evaluate(f"BrainRace.QB['8'][{ix}][6]")!=1: alleasy=False
+        pg.click("#skipBtn")
+    ok(alleasy, "Easier level serves only easy-flagged questions (15 checked)")
+    # Upgrade from an old saved game (pre-v2 bank): scores kept, stale age-8 history cleared
+    old={"v":1,"players":[{"id":"p1","name":"Anthony","level":"8","color":"#2F80ED","emoji":"🦖","score":5},
+        {"id":"p2","name":"Liz","level":"12","color":"#FF3E9A","emoji":"🦄","score":7},
+        {"id":"p3","name":"Eugene","level":"adult","color":"#FF7A00","emoji":"🧠","score":9}],
+        "turn":0,"target":25,"cats":[],"used":{"8":["8:3","8:10"],"12":["12:4"],"adult":["adult:2"]},
+        "cur":{"qid":"8:3","pid":"p1","hints":0,"shown":False,"phase":"ask","stealer":None,"out":None},
+        "autoRead":False,"sfx":True,"winner":None,"winDismissed":False,"asked":4}
+    pg.evaluate("s=>localStorage.setItem('brainrace.v1', JSON.stringify(s))", old); pg.reload(); pg.wait_for_selector("#qtext")
+    s2=st()
+    ok([x["score"] for x in s2["players"]]==[5,7,9], f"old saved scores kept after upgrade {[x['score'] for x in s2['players']]}")
+    ok(s2["used"]["12"]==["12:4"] and s2["used"]["adult"]==["adult:2"], "age-12/expert history kept")
+    ok(s2["used"]["8"]==[s2["cur"]["qid"]] and s2["bankv"]["8"]==2, "stale age-8 history cleared, fresh question picked")
+    ok("Anthony" in pg.inner_text("#turnTitle"), "turn kept on Anthony after upgrade")
     ok(not jserr, "no JS errors: "+json.dumps(jserr))
     b.close()
 print("\nRESULT:", "ALL PASS" if not errors else f"{len(errors)} FAIL")
